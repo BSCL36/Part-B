@@ -1,0 +1,33 @@
+Report Name : PAS,,,,,,,,
+Name : PAS,,,,,,,,
+Time Span: From 14 Oct  2023 12:00:00 AM To 14 Nov  2023 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,85.45,,,
+Maintenance (%),,,,,11.14,,,
+Down (%),,,,,3.4,,,
+Name : PAS,,,,,,,,
+Time Span: From 14 Oct  2023 12:00:00 AM To 14 Nov  2023 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-RGC-PA ( 172.21.0.19 ),Ping,99.82,31 days 22 hours 33 minutes 59 seconds ,0.18,,0 days 1 hours 22 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-PA ( 172.21.0.54 ),Ping,99.85,31 days 22 hours 47 minutes 19 seconds ,0.15,,0 days 1 hours 9 minutes 7 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-PA ( 172.21.0.14 ),Ping,99.6,31 days 20 hours 55 minutes 40 seconds ,0.4,,0 days 3 hours 4 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-PA ( 172.21.0.17 ),Ping,96.63,30 days 22 hours 7 minutes 5 seconds ,3.24,,1 days 0 hours 52 minutes 59 seconds ,0.13,0 days 0 hours 59 minutes 54 seconds 
+BSCL-GC-PA ( 172.21.0.57 ),Ping,97.24,31 days 2 hours 43 minutes 44 seconds ,2.76,,0 days 21 hours 11 minutes 41 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-JMC-PA ( 172.21.0.51 ),Ping,99.15,31 days 17 hours 24 minutes 10 seconds ,0.85,,0 days 6 hours 31 minutes 39 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-PA ( 172.21.0.24 ),Ping,99.26,31 days 18 hours 14 minutes 29 seconds ,0.74,,0 days 5 hours 40 minutes 57 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-PA ( 172.21.0.20 ),Ping,95.32,30 days 12 hours 0 minutes 3 seconds ,4.56,,1 days 11 hours 1 minutes 5 seconds ,0.12,0 days 0 hours 55 minutes 18 seconds 
+BSCL-VVC-PA ( 172.21.0.23 ),Ping,28.17,9 days 0 hours 20 minutes 44 seconds ,11.16,,3 days 13 hours 42 minutes 32 seconds ,60.67,19 days 9 hours 56 minutes 44 seconds 
+BSCL-DNC-PA ( 172.21.0.56 ),Ping,96.95,31 days 0 hours 26 minutes 35 seconds ,2.92,,0 days 22 hours 25 minutes 18 seconds ,0.13,0 days 0 hours 59 minutes 54 seconds 
+BSCL-CMD-PA ( 172.21.0.53 ),Ping,99.9,31 days 23 hours 9 minutes 22 seconds ,0.1,,0 days 0 hours 46 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-PA ( 172.21.0.11 ),Ping,28.23,9 days 0 hours 48 minutes 23 seconds ,11.09,,3 days 13 hours 10 minutes 16 seconds ,60.68,19 days 10 hours 1 minutes 20 seconds 
+BSCL-MMC-PA ( 172.21.0.12 ),Ping,28.23,9 days 0 hours 46 minutes 11 seconds ,11.1,,3 days 13 hours 14 minutes 1 seconds ,60.67,19 days 9 hours 52 minutes 0 seconds 
+BSCL-ST-PA ( 172.21.0.21 ),Ping,99.91,31 days 23 hours 15 minutes 27 seconds ,0.09,,0 days 0 hours 41 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-PA ( 172.21.0.58 ),Ping,98.83,31 days 15 hours 0 minutes 51 seconds ,1.17,,0 days 8 hours 59 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-IC-PA ( 172.21.0.59 ),Ping,97.35,31 days 3 hours 35 minutes 25 seconds ,2.53,,0 days 19 hours 25 minutes 44 seconds ,0.12,0 days 0 hours 55 minutes 18 seconds 
+BSCL-ANC-PA ( 172.21.0.55 ),Ping,28.23,9 days 0 hours 47 minutes 3 seconds ,11.1,,3 days 13 hours 14 minutes 21 seconds ,60.67,19 days 9 hours 53 minutes 52 seconds 
+BSCL-FRC-PA ( 172.21.0.22 ),Ping,94.33,30 days 4 hours 27 minutes 15 seconds ,5.36,,1 days 17 hours 9 minutes 53 seconds ,0.31,0 days 2 hours 22 minutes 51 seconds 
+BSCL-MPC-PA ( 172.21.0.26 ),Ping,97.9,31 days 7 hours 48 minutes 50 seconds ,1.88,,0 days 14 hours 26 minutes 14 seconds ,0.22,0 days 1 hours 41 minutes 22 seconds 
+BSCL-ASC-PA ( 172.21.0.52 ),Ping,98.39,31 days 11 hours 38 minutes 6 seconds ,1.2,,0 days 9 hours 12 minutes 58 seconds ,0.41,0 days 3 hours 8 minutes 56 seconds 
+BSCL-MDC-PA ( 172.21.0.15 ),Ping,99.82,31 days 22 hours 27 minutes 59 seconds ,0.18,,0 days 1 hours 22 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-PA ( 172.21.0.16 ),Ping,96.97,31 days 0 hours 43 minutes 46 seconds ,2.91,,0 days 22 hours 20 minutes 56 seconds ,0.12,0 days 0 hours 55 minutes 18 seconds 
+BSCL-OBS-PA ( 172.21.0.18 ),Ping,99.14,31 days 17 hours 19 minutes 11 seconds ,0.86,,0 days 6 hours 36 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
