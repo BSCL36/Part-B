@@ -1,0 +1,21 @@
+Report Name : Application Performance,,,,,,,,
+Name : Application Performance,,,,,,,,
+Time Span: From 15 Dec  2023 12:00:00 AM To 31 Dec  2023 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,99.97,,,
+Down (%),,,,,0.03,,,
+Name : Application Performance,,,,,,,,
+Time Span: From 15 Dec  2023 12:00:00 AM To 31 Dec  2023 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+ICCC-APPLICATION ( http://172.16.1.15:8090/XStudio/Login ),HTTP/HTTPS URL,100,5 days 11 hours 10 minutes 37 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+ANPR Application ( http://172.16.0.28:8080/ANPR/Home ),HTTP/HTTPS URL,100,16 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+SIEM ( https://172.16.1.200/login ),HTTP/HTTPS URL,100,5 days 11 hours 17 minutes 37 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+VMS Application ( https://172.16.0.25/#!/ ),HTTP/HTTPS URL,100,16 days 23 hours 56 minutes 49 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+Contact Center ( https://172.16.4.180/ccmadmin/showHome.do ),HTTP/HTTPS URL,99.96,16 days 23 hours 45 minutes 49 seconds ,0.04,,0 days 0 hours 9 minutes 47 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+TES Application ( http://172.16.0.29:8080/eTmcsWeb/Home ),HTTP/HTTPS URL,100,16 days 23 hours 55 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+VMD ( http://172.16.0.207/#/login ),HTTP/HTTPS URL,100,16 days 23 hours 55 minutes 56 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+PAM - Privelage Access Management ( https://172.16.4.242 ),HTTP/HTTPS URL,100,5 days 10 hours 30 minutes 4 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+EMS- APPLICATION ( http://172.16.0.50:8080/ ),HTTP/HTTPS URL,99.73,16 days 22 hours 50 minutes 54 seconds ,0.27,,0 days 1 hours 6 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+ATCS Application ( https://172.16.0.11/gui/html ),HTTP/HTTPS URL,100,16 days 23 hours 56 minutes 9 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+ISE-NAC ( https://172.16.4.120/admin/login.jsp ),HTTP/HTTPS URL,99.98,16 days 23 hours 55 minutes 5 seconds ,0.02,,0 days 0 hours 4 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+VCenter ( https://172.16.4.100/ui ),HTTP/HTTPS URL,99.98,16 days 23 hours 50 minutes 41 seconds ,0.02,,0 days 0 hours 4 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
