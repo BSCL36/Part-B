@@ -1,0 +1,17 @@
+Report Name :  Firewall & Other Security Appliance,,,,,,,,
+Name :  Firewall & Other Security Appliance,,,,,,,,
+Time Span: From 15 Dec  2023 12:00:00 AM To 31 Dec  2023 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,99.84,,,
+Down (%),,,,,0.16,,,
+Name : FIREWALL,,,,,,,,
+Time Span: From 15 Dec  2023 12:00:00 AM To 31 Dec  2023 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+AV-SERVER1 ( 172.16.4.151 ),Windows RDP,99.8,16 days 23 hours 11 minutes 2 seconds ,0.2,,0 days 0 hours 48 minutes 58 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+AVSERVER(KSEB Failover Server Cluster) ( 172.16.4.154 ),Windows RDP,99.8,15 days 15 hours 25 minutes 29 seconds ,0.2,,0 days 0 hours 45 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+Internal Firewall  ( 172.16.2.9 ),Ping,100,15 days 16 hours 4 minutes 15 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+Ext. Firewall 2 ( 172.16.2.42 ),Cisco ASA Firewall,99.66,15 days 14 hours 54 minutes 53 seconds ,0.34,,0 days 1 hours 16 minutes 45 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+AV-SERVER (Failover Cluster) ( 172.16.4.150 ),Windows RDP,99.89,16 days 23 hours 33 minutes 3 seconds ,0.11,,0 days 0 hours 26 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+Internal Firewall 1 ( 172.16.2.30 ),Ping,100,15 days 16 hours 4 minutes 14 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+AV-SERVER2 ( 172.16.4.152 ),Windows RDP,99.89,16 days 23 hours 33 minutes 3 seconds ,0.11,,0 days 0 hours 26 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+Ext. Firewall 1 ( 172.16.2.41 ),Cisco ASA Firewall,99.83,16 days 23 hours 18 minutes 22 seconds ,0.17,,0 days 0 hours 41 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
