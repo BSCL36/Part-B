@@ -1,0 +1,15 @@
+Report Name : SVD,,,,,,,,
+Name : Grid,,,,,,,,
+Time Span: From 01 Jan  2024 12:00:00 AM To 14 Jan  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-GNCS-SVD-EC2 ( 172.22.2.185 ),Ping,99.98,12 days 9 hours 28 minutes 55 seconds ,0.02,,0 days 0 hours 3 minutes 34 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RVR-SVD-EC1 ( 172.22.2.179 ),Ping,85.04,11 days 21 hours 40 minutes 6 seconds ,14.96,,2 days 2 hours 15 minutes 14 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RVR-SVD-EC2 ( 172.22.2.180 ),Ping,86.88,10 days 18 hours 24 minutes 9 seconds ,13.12,,1 days 15 hours 1 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNCS-SVD-EC1 ( 172.22.2.184 ),Ping,97.85,13 days 16 hours 41 minutes 59 seconds ,2.15,,0 days 7 hours 13 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVR-SVD-EC2 ( 172.22.2.163 ),Ping,99.73,13 days 23 hours 1 minutes 55 seconds ,0.27,,0 days 0 hours 54 minutes 25 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVR-SVD-EC1 ( 172.22.2.162 ),Ping,99.8,13 days 23 hours 16 minutes 1 seconds ,0.2,,0 days 0 hours 40 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+Name : SVD,,,,,,,,
+Time Span: From 01 Jan  2024 12:00:00 AM To 14 Jan  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,94.93,,,
+Down (%),,,,,5.07,,,
