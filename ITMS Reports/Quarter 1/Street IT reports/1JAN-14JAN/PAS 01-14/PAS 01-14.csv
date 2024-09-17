@@ -1,0 +1,33 @@
+Report Name : PAS,,,,,,,,
+Name : PAS,,,,,,,,
+Time Span: From 01 Jan  2024 12:00:00 AM To 14 Jan  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,79.23,,,
+Maintenance (%),,,,,19.03,,,
+Down (%),,,,,1.75,,,
+Name : PAS,,,,,,,,
+Time Span: From 01 Jan  2024 12:00:00 AM To 14 Jan  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-RGC-PA ( 172.21.0.19 ),Ping,99.47,13 days 22 hours 9 minutes 30 seconds ,0.53,,0 days 1 hours 46 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-PA ( 172.21.0.54 ),Ping,99.87,13 days 23 hours 30 minutes 16 seconds ,0.13,,0 days 0 hours 26 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-PA ( 172.21.0.14 ),Ping,98.43,12 days 4 hours 52 minutes 12 seconds ,1.57,,0 days 4 hours 40 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-PA ( 172.21.0.17 ),Ping,99.16,12 days 7 hours 2 minutes 31 seconds ,0.84,,0 days 2 hours 29 minutes 58 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-PA ( 172.21.0.57 ),Ping,99.82,13 days 23 hours 19 minutes 3 seconds ,0.18,,0 days 0 hours 36 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-JMC-PA ( 172.21.0.51 ),Ping,99.96,13 days 23 hours 47 minutes 15 seconds ,0.04,,0 days 0 hours 8 minutes 4 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-PA ( 172.21.0.24 ),Ping,98.52,12 days 5 hours 8 minutes 16 seconds ,1.48,,0 days 4 hours 24 minutes 13 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-PA ( 172.21.0.20 ),Ping,98.99,13 days 20 hours 32 minutes 45 seconds ,1.01,,0 days 3 hours 23 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-PA ( 172.21.0.23 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,13 days 23 hours 56 minutes 33 seconds 
+BSCL-DNC-PA ( 172.21.0.56 ),Ping,99.11,13 days 21 hours 0 minutes 34 seconds ,0.89,,0 days 2 hours 59 minutes 25 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-PA ( 172.21.0.53 ),Ping,99.95,12 days 9 hours 23 minutes 33 seconds ,0.05,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-PA ( 172.21.0.11 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,13 days 23 hours 55 minutes 3 seconds 
+BSCL-MMC-PA ( 172.21.0.12 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,13 days 23 hours 55 minutes 3 seconds 
+BSCL-ST-PA ( 172.21.0.21 ),Ping,99.9,12 days 9 hours 14 minutes 38 seconds ,0.1,,0 days 0 hours 17 minutes 51 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-PA ( 172.21.0.58 ),Ping,99.82,13 days 23 hours 20 minutes 3 seconds ,0.18,,0 days 0 hours 36 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-IC-PA ( 172.21.0.59 ),Ping,99.91,13 days 23 hours 38 minutes 12 seconds ,0.09,,0 days 0 hours 18 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ANC-PA ( 172.21.0.55 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,13 days 23 hours 59 minutes 59 seconds 
+BSCL-FRC-PA ( 172.21.0.22 ),Ping,99.57,12 days 8 hours 15 minutes 43 seconds ,0.43,,0 days 1 hours 16 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-PA ( 172.21.0.26 ),Ping,99.93,12 days 9 hours 19 minutes 59 seconds ,0.07,,0 days 0 hours 12 minutes 30 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-PA ( 172.21.0.52 ),Ping,89.06,11 days 0 hours 57 minutes 12 seconds ,6.95,,0 days 20 hours 40 minutes 34 seconds ,3.99,0 days 11 hours 52 minutes 13 seconds 
+BSCL-MDC-PA ( 172.21.0.15 ),Ping,99.95,13 days 23 hours 45 minutes 15 seconds ,0.05,,0 days 0 hours 10 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-PA ( 172.21.0.16 ),Ping,99.41,12 days 7 hours 47 minutes 9 seconds ,0.59,,0 days 1 hours 45 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-PA ( 172.21.0.18 ),Ping,22.9,2 days 20 hours 7 minutes 13 seconds ,24.28,,3 days 0 hours 13 minutes 32 seconds ,52.82,6 days 13 hours 7 minutes 23 seconds 
