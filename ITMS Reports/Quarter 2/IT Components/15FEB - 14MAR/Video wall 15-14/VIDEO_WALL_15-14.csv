@@ -1,0 +1,11 @@
+Report Name : VIDEO WALL,,,,,,,,
+Name : VIDEO WALL ,,,,,,,,
+Time Span: From 15 Feb  2024 12:00:00 AM To 14 Mar  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+ICCC Vediowall (172.16.5.49) ( 172.16.5.49 ),Ping,100,28 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BCP-Videowall (172.25.0.172) ( 172.25.0.171 ),Ping,99.98,28 days 23 hours 47 minutes 53 seconds ,0.02,,0 days 0 hours 8 minutes 21 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+Name : VIDEO WALL ,,,,,,,,
+Time Span: From 15 Feb  2024 12:00:00 AM To 14 Mar  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,99.99,,,
+Down (%),,,,,0.01,,,
