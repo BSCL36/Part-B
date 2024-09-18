@@ -1,0 +1,18 @@
+Report Name : VMD,,,,,,,,
+Name : VMD,,,,,,,,
+Time Span: From 15 Feb  2024 12:00:00 AM To 14 Mar  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,49.79,,,
+Maintenance (%),,,,,49.99,,,
+Down (%),,,,,0.22,,,
+Name : VMD,,,,,,,,
+Time Span: From 15 Feb  2024 12:00:00 AM To 14 Mar  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-IC-VMD ( 172.20.0.108 ),Ping,99.7,28 days 21 hours 45 minutes 49 seconds ,0.3,,0 days 2 hours 5 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-VMD ( 172.20.0.103 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,28 days 23 hours 59 minutes 59 seconds 
+BSCL-RLY-VMD ( 172.20.0.109 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,28 days 23 hours 51 minutes 3 seconds 
+BSCL-ASC-VMD ( 172.20.0.101 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,28 days 23 hours 59 minutes 59 seconds 
+BSCL-OBS-VMD ( 172.20.0.106 ),Ping,99.74,28 days 22 hours 11 minutes 24 seconds ,0.26,,0 days 1 hours 48 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-VMD ( 172.20.0.102 ),Ping,98.86,28 days 15 hours 55 minutes 6 seconds ,1.14,,0 days 7 hours 55 minutes 58 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CIMS-VMD ( 172.20.0.105 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,28 days 23 hours 59 minutes 59 seconds 
+BSCL-Nehru-VMD ( 172.20.0.107 ),Ping,99.94,28 days 23 hours 34 minutes 56 seconds ,0.06,,0 days 0 hours 25 minutes 3 seconds ,0,0 days 0 hours 0 minutes 0 seconds
