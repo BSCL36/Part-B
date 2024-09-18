@@ -1,0 +1,42 @@
+Report Name : WORK STATION,,,,,,,,
+Name : WORKSTATION,,,,,,,,
+Time Span: From 15 Jan  2024 12:00:00 AM To 15 Feb  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,98.94,,,
+Down (%),,,,,1.06,,,
+Name : WORKSTATION,,,,,,,,
+Time Span: From 15 Jan  2024 12:00:00 AM To 14 Feb  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-ICCC-OPERATORPC2 ( 172.16.5.12 ),Ping,97.86,30 days 8 hours 4 minutes 41 seconds ,2.14,,0 days 15 hours 55 minutes 18 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC1 ( 172.16.5.11 ),Ping,99.98,30 days 23 hours 47 minutes 5 seconds ,0.02,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC5 ( 172.16.5.15 ),Ping,99.33,30 days 18 hours 55 minutes 57 seconds ,0.67,,0 days 4 hours 59 minutes 3 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BCP-WORKSTATION1 ( 172.25.0.11 ),Ping,96.9,30 days 0 hours 48 minutes 7 seconds ,3.1,,0 days 23 hours 3 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC13 ( 172.16.5.23 ),Ping,99.32,30 days 18 hours 48 minutes 11 seconds ,0.68,,0 days 5 hours 3 minutes 30 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC17 ( 172.16.5.27 ),Ping,99.98,30 days 23 hours 42 minutes 47 seconds ,0.02,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC33 ( 172.16.5.43 ),Ping,99.9,30 days 23 hours 6 minutes 4 seconds ,0.1,,0 days 0 hours 44 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC31 ( 172.16.5.31 ),Ping,99.98,30 days 23 hours 42 minutes 47 seconds ,0.02,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC30 ( 172.16.5.40 ),Ping,99.99,30 days 23 hours 50 minutes 32 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC10 ( 172.16.5.20 ),Ping,99.99,30 days 23 hours 48 minutes 4 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BCP-WORKSTATION4 ( 172.25.0.21 ),Ping,96.97,30 days 1 hours 24 minutes 1 seconds ,3.03,,0 days 22 hours 32 minutes 29 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC4 ( 172.16.5.14 ),Ping,99.98,30 days 23 hours 46 minutes 16 seconds ,0.02,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC24 ( 172.16.5.34 ),Ping,99.98,30 days 23 hours 51 minutes 3 seconds ,0.02,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-SIEM-PC ( 172.16.5.39 ),Ping,99.98,30 days 23 hours 51 minutes 3 seconds ,0.02,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC8 ( 172.16.5.18 ),Ping,99.31,30 days 18 hours 48 minutes 31 seconds ,0.69,,0 days 5 hours 8 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC11 ( 172.16.5.21 ),Ping,99.33,30 days 18 hours 52 minutes 40 seconds ,0.67,,0 days 4 hours 59 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC22 ( 172.16.5.32 ),Ping,99.57,30 days 20 hours 40 minutes 37 seconds ,0.43,,0 days 3 hours 11 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC23 ( 172.16.5.33 ),Ping,99.18,30 days 17 hours 45 minutes 4 seconds ,0.82,,0 days 6 hours 5 minutes 58 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BCP-WORKSTATION2 ( 172.25.0.12 ),Ping,96.93,30 days 1 hours 1 minutes 30 seconds ,3.07,,0 days 22 hours 50 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC7 ( 172.16.5.17 ),Ping,97.28,30 days 3 hours 41 minutes 54 seconds ,2.72,,0 days 20 hours 14 minutes 6 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC16 ( 172.16.5.26 ),Ping,94.15,29 days 4 hours 20 minutes 44 seconds ,5.85,,1 days 19 hours 30 minutes 57 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC20 ( 172.16.5.30 ),Ping,99.98,30 days 23 hours 51 minutes 3 seconds ,0.02,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC9 ( 172.16.5.19 ),Ping,96.31,29 days 20 hours 23 minutes 50 seconds ,3.69,,1 days 3 hours 26 minutes 52 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC34 ( 172.16.5.44 ),Ping,99.91,30 days 23 hours 19 minutes 49 seconds ,0.09,,0 days 0 hours 40 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BCP-WORKSTATION3 ( 172.25.0.13 ),Ping,96.91,30 days 0 hours 56 minutes 16 seconds ,3.09,,0 days 22 hours 59 minutes 14 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC35 ( 172.16.5.45 ),Ping,97.79,30 days 7 hours 25 minutes 19 seconds ,2.21,,0 days 16 hours 26 minutes 22 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC15 ( 172.16.5.25 ),Ping,99.96,30 days 23 hours 37 minutes 40 seconds ,0.04,,0 days 0 hours 17 minutes 51 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC14 ( 172.16.5.24 ),Ping,99.74,30 days 21 hours 59 minutes 57 seconds ,0.26,,0 days 1 hours 56 minutes 3 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-EMS-PC ( 172.16.5.38 ),Ping,99.99,30 days 23 hours 47 minutes 4 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC12 ( 172.16.5.22 ),Ping,99.97,30 days 23 hours 46 minutes 36 seconds ,0.03,,0 days 0 hours 13 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC19 ( 172.16.5.29 ),Ping,99.33,30 days 18 hours 52 minutes 39 seconds ,0.67,,0 days 4 hours 59 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC6 ( 172.16.5.16 ),Ping,99.97,30 days 23 hours 46 minutes 36 seconds ,0.03,,0 days 0 hours 13 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-OPERATORPC34 ( 172.16.5.37 ),Ping,99.53,30 days 20 hours 26 minutes 23 seconds ,0.47,,0 days 3 hours 29 minutes 47 seconds ,0,0 days 0 hours 0 minutes 0 seconds
