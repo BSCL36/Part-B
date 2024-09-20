@@ -1,0 +1,213 @@
+Report Name : CCTV Surveillance,,,,,,,,
+Name : CCTV,,,,,,,,
+Time Span: From 15 May  2024 12:00:00 AM To 14 Jun  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,76.64,,,
+Maintenance (%),,,,,18.04,,,
+Down (%),,,,,5.32,,,
+Name : CCTV,,,,,,,,
+Time Span: From 15 May  2024 12:00:00 AM To 14 Jun  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-MC-FIX1 ( 172.18.1.156 ),SNMP Device,89.79,27 days 20 hours 2 minutes 15 seconds ,10.21,,3 days 3 hours 57 minutes 45 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-FIX2 ( 172.18.1.170 ),SNMP Device,98.86,30 days 15 hours 31 minutes 5 seconds ,1.14,,0 days 8 hours 28 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-FIX3 ( 172.18.1.150 ),SNMP Device,54.4,16 days 20 hours 44 minutes 9 seconds ,45.6,,14 days 3 hours 15 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BBC-FIX3 ( 172.18.1.110 ),SNMP Device,96.97,30 days 1 hours 27 minutes 24 seconds ,3.03,,0 days 22 hours 32 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-FIX1 ( 172.18.1.116 ),SNMP Device,95,29 days 10 hours 47 minutes 59 seconds ,5,,1 days 13 hours 12 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-FIX4 ( 172.18.1.104 ),SNMP Device,86.37,26 days 18 hours 35 minutes 33 seconds ,11.82,,3 days 15 hours 56 minutes 27 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-TBAC-FIX3 ( 172.18.1.220 ),SNMP Device,84.58,26 days 5 hours 16 minutes 30 seconds ,13.61,,4 days 5 hours 15 minutes 30 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-BC-FIX1 ( 172.18.1.105 ),SNMP Device,93.86,29 days 2 hours 19 minutes 5 seconds ,6.14,,1 days 21 hours 40 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-FIX1 ( 172.18.1.191 ),SNMP Device,99.27,30 days 18 hours 34 minutes 7 seconds ,0.73,,0 days 5 hours 25 minutes 52 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC_City Operation Room2 ( 172.16.5.143 ),SNMP Device,99.7,30 days 21 hours 46 minutes 4 seconds ,0.3,,0 days 2 hours 13 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-JMC-FIX2 ( 172.18.1.139 ),SNMP Device,87.53,27 days 3 hours 13 minutes 23 seconds ,12.47,,3 days 20 hours 46 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-FIX5 ( 172.18.1.168 ),SNMP Device,71.03,22 days 0 hours 27 minutes 47 seconds ,28.97,,8 days 23 hours 32 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CO-FIX2 ( 172.18.1.234 ),SNMP Device,92.94,28 days 19 hours 28 minutes 24 seconds ,7.06,,2 days 4 hours 31 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-PTZ1 ( 172.18.0.101 ),SNMP Device,86.36,26 days 18 hours 31 minutes 6 seconds ,11.83,,3 days 16 hours 0 minutes 55 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-CIMS-FIX3 ( 172.18.1.223 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MMC-FIX2 ( 172.18.1.146 ),SNMP Device,97.88,30 days 8 hours 13 minutes 37 seconds ,2.12,,0 days 15 hours 46 minutes 22 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-FIX4 ( 172.18.1.167 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-TBC-FIX4 ( 172.18.1.210 ),SNMP Device,99.42,30 days 19 hours 41 minutes 4 seconds ,0.58,,0 days 4 hours 18 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-FIX1 ( 172.18.1.169 ),SNMP Device,99.5,30 days 20 hours 16 minutes 47 seconds ,0.5,,0 days 3 hours 43 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-FIX4 ( 172.18.1.187 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-CO-FIX3 ( 172.18.1.235 ),SNMP Device,92.94,28 days 19 hours 28 minutes 24 seconds ,7.06,,2 days 4 hours 31 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-FIX2 ( 172.18.1.196 ),SNMP Device,96.82,30 days 0 hours 20 minutes 26 seconds ,3.18,,0 days 23 hours 39 minutes 33 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-PTZ1 ( 172.18.0.113 ),SNMP Device,85.52,26 days 12 hours 16 minutes 7 seconds ,14.48,,4 days 11 hours 43 minutes 52 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-FIX1 ( 172.18.1.120 ),SNMP Device,97.28,30 days 3 hours 45 minutes 47 seconds ,2.72,,0 days 20 hours 14 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-FIX1 ( 172.18.1.241 ),SNMP Device,90.73,28 days 3 hours 1 minutes 52 seconds ,9.27,,2 days 20 hours 58 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-FIX3 ( 172.18.1.186 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-FRC-FIX1 ( 172.18.1.173 ),SNMP Device,85.91,26 days 15 hours 10 minutes 13 seconds ,14.09,,4 days 8 hours 49 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-FIX1 ( 172.18.1.181 ),SNMP Device,96.23,29 days 19 hours 57 minutes 4 seconds ,3.77,,1 days 4 hours 2 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-PTZ1 ( 172.18.0.125 ),SNMP Device,96.83,30 days 0 hours 24 minutes 54 seconds ,3.17,,0 days 23 hours 35 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CIMS-FIX2 ( 172.18.1.222 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-VVC-FIX2 ( 172.18.1.185 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MMT-FIX3 ( 172.18.1.190 ),SNMP Device,98.74,30 days 14 hours 37 minutes 31 seconds ,1.26,,0 days 9 hours 22 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-IC-FIX2 ( 172.18.1.135 ),SNMP Device,99.46,30 days 19 hours 58 minutes 56 seconds ,0.54,,0 days 4 hours 1 minutes 3 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-FIX2 ( 172.18.1.128 ),SNMP Device,98.14,30 days 10 hours 9 minutes 41 seconds ,1.86,,0 days 13 hours 50 minutes 18 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-FIX2 ( 172.18.1.189 ),SNMP Device,98.75,30 days 14 hours 41 minutes 59 seconds ,1.25,,0 days 9 hours 18 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-FIX2 ( 172.18.1.208 ),SNMP Device,99.43,30 days 19 hours 45 minutes 32 seconds ,0.57,,0 days 4 hours 14 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DDG-FIX2 ( 172.18.1.216 ),SNMP Device,98.66,30 days 14 hours 1 minutes 49 seconds ,1.34,,0 days 9 hours 58 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-FIX2 ( 172.18.1.192 ),SNMP Device,89.6,27 days 18 hours 37 minutes 26 seconds ,10.4,,3 days 5 hours 22 minutes 33 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-PTZ1 ( 172.18.0.115 ),SNMP Device,89.76,27 days 19 hours 48 minutes 51 seconds ,10.24,,3 days 4 hours 11 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-36M-FIX1 ( 172.18.1.231 ),SNMP Device,88.36,27 days 9 hours 23 minutes 54 seconds ,11.64,,3 days 14 hours 36 minutes 6 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RLY-FIX3 ( 172.18.1.246 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ICCC-FF_WarRoom ( 172.16.5.115 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-JMC-FIX3 ( 172.18.1.140 ),SNMP Device,95.48,29 days 14 hours 22 minutes 16 seconds ,4.52,,1 days 9 hours 37 minutes 44 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-FIX2 ( 172.18.1.182 ),SNMP Device,96.26,29 days 20 hours 10 minutes 27 seconds ,3.74,,1 days 3 hours 49 minutes 32 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-FIX3 ( 172.18.1.166 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-HC-FIX1 ( 172.18.1.112 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-CMD-FIX3 ( 172.18.1.118 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-TBAC-FIX2 ( 172.18.1.219 ),SNMP Device,83.28,25 days 19 hours 36 minutes 11 seconds ,14.91,,4 days 14 hours 55 minutes 49 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-IC-FIX3 ( 172.18.1.136 ),SNMP Device,99.4,30 days 19 hours 32 minutes 9 seconds ,0.6,,0 days 4 hours 27 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-PTZ1 ( 172.18.0.105 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-VRP-FIX3 ( 172.18.1.183 ),SNMP Device,96.25,29 days 20 hours 5 minutes 59 seconds ,3.75,,1 days 3 hours 54 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-TOWARDS POLICE STATION ( 172.16.5.139 ),Ping,99.68,30 days 8 hours 20 minutes 1 seconds ,0.32,,0 days 2 hours 20 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-FIX4 ( 172.18.1.115 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ST-FIX2 ( 172.18.1.204 ),SNMP Device,99.51,30 days 20 hours 21 minutes 15 seconds ,0.49,,0 days 3 hours 38 minutes 44 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-JMC-FIX1 ( 172.18.1.138 ),SNMP Device,95.51,29 days 14 hours 35 minutes 39 seconds ,4.49,,1 days 9 hours 24 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBAC-PTZ1 ( 172.18.0.132 ),SNMP Device,84.63,26 days 5 hours 38 minutes 49 seconds ,13.56,,4 days 4 hours 53 minutes 11 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-RLY-PTZ1 ( 172.18.0.141 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-TWC-FIX3 ( 172.18.1.179 ),SNMP Device,98.75,30 days 14 hours 41 minutes 59 seconds ,1.25,,0 days 9 hours 18 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-FIX2 ( 172.18.1.125 ),SNMP Device,98.6,30 days 13 hours 35 minutes 2 seconds ,1.4,,0 days 10 hours 24 minutes 58 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-FIX3 ( 172.18.1.162 ),SNMP Device,98.14,30 days 10 hours 9 minutes 41 seconds ,1.86,,0 days 13 hours 50 minutes 18 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-PTZ1 ( 172.18.0.123 ),SNMP Device,98.45,30 days 12 hours 28 minutes 4 seconds ,1.55,,0 days 11 hours 31 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ST-FIX4 ( 172.18.1.206 ),SNMP Device,99.53,30 days 20 hours 30 minutes 11 seconds ,0.47,,0 days 3 hours 29 minutes 48 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-FIX3 ( 172.18.1.171 ),SNMP Device,99.33,30 days 19 hours 0 minutes 54 seconds ,0.67,,0 days 4 hours 59 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-FIX2 ( 172.18.1.153 ),SNMP Device,97.12,30 days 2 hours 34 minutes 21 seconds ,2.88,,0 days 21 hours 25 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CIMS2-FIX1 ( 172.18.1.225 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-RGC-FIX1 ( 172.18.1.195 ),SNMP Device,96.83,30 days 0 hours 24 minutes 54 seconds ,3.17,,0 days 23 hours 35 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-FIX3 ( 172.18.1.193 ),SNMP Device,99.26,30 days 18 hours 29 minutes 39 seconds ,0.74,,0 days 5 hours 30 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-PTZ1 ( 172.18.0.112 ),SNMP Device,97.91,30 days 8 hours 27 minutes 1 seconds ,2.09,,0 days 15 hours 32 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-FIX3 ( 172.18.1.209 ),SNMP Device,97.37,30 days 4 hours 25 minutes 57 seconds ,2.63,,0 days 19 hours 34 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BCP - CCTV ( 172.25.0.21 ),SNMP Device,98.62,30 days 13 hours 43 minutes 57 seconds ,1.38,,0 days 10 hours 16 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-SF_DataCenter ( 172.16.5.121 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSC-ICCC-FF_ Corridor_ Upside_ Reception_ Desk ( 172.16.5.117 ),SNMP Device,97.37,30 days 4 hours 25 minutes 57 seconds ,2.63,,0 days 19 hours 34 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-IC-FIX1 ( 172.18.1.134 ),SNMP Device,99.43,30 days 19 hours 45 minutes 32 seconds ,0.57,,0 days 4 hours 14 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-Basement_Rempup ( 172.16.5.129 ),SNMP Device,99.98,30 days 23 hours 51 minutes 3 seconds ,0.02,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-PTZ1 ( 172.18.0.114 ),SNMP Device,97.12,30 days 2 hours 34 minutes 21 seconds ,2.88,,0 days 21 hours 25 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-FIX3 ( 172.18.1.175 ),SNMP Device,85.18,26 days 9 hours 44 minutes 20 seconds ,14.82,,4 days 14 hours 15 minutes 39 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-FIX1 ( 172.18.1.188 ),SNMP Device,98.7,30 days 14 hours 19 minutes 40 seconds ,1.3,,0 days 9 hours 40 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-FIX2 ( 172.18.1.178 ),SNMP Device,98.7,30 days 14 hours 19 minutes 40 seconds ,1.3,,0 days 9 hours 40 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-FIX4 ( 172.18.1.172 ),SNMP Device,99.42,30 days 19 hours 41 minutes 4 seconds ,0.58,,0 days 4 hours 18 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-FIX2 ( 172.18.1.117 ),SNMP Device,97.81,30 days 7 hours 42 minutes 22 seconds ,2.19,,0 days 16 hours 17 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-PTZ1 ( 172.18.0.128 ),SNMP Device,99.44,30 days 19 hours 50 minutes 0 seconds ,0.56,,0 days 4 hours 9 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-36M-FIX2 ( 172.18.1.232 ),SNMP Device,88.02,27 days 6 hours 52 minutes 7 seconds ,11.98,,3 days 17 hours 7 minutes 52 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-FIX4 ( 172.18.1.176 ),SNMP Device,85.86,26 days 14 hours 47 minutes 54 seconds ,14.14,,4 days 9 hours 12 minutes 6 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ANC-FIX4 ( 172.18.1.202 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-BNC-FIX4 ( 172.18.1.214 ),SNMP Device,96.78,30 days 0 hours 2 minutes 35 seconds ,3.22,,0 days 23 hours 57 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-PTZ1 ( 172.18.0.118 ),SNMP Device,96.44,29 days 21 hours 30 minutes 48 seconds ,3.56,,1 days 2 hours 29 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-PTZ1 ( 172.18.0.107 ),SNMP Device,98.5,30 days 12 hours 50 minutes 23 seconds ,1.5,,0 days 11 hours 9 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RLY-FIX1 ( 172.18.1.244 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ICCC-Basement_Rameup2 ( 172.16.5.132 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ANC-FIX3 ( 172.18.1.201 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ICCC-FF_TechSupportRoom ( 172.16.5.116 ),Ping,99.99,30 days 23 hours 51 minutes 21 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BBC-FIX1 ( 172.18.1.108 ),SNMP Device,97.01,30 days 1 hours 45 minutes 15 seconds ,2.99,,0 days 22 hours 14 minutes 44 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-FIX1 ( 172.18.1.164 ),SNMP Device,71.02,22 days 0 hours 23 minutes 19 seconds ,28.98,,8 days 23 hours 36 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-FIX2 ( 172.18.1.165 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,100,,30 days 23 hours 59 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BC-FIX3 ( 172.18.1.107 ),SNMP Device,93.83,29 days 2 hours 5 minutes 42 seconds ,6.17,,1 days 21 hours 54 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-FIX2 ( 172.18.1.174 ),SNMP Device,85.79,26 days 14 hours 16 minutes 39 seconds ,14.21,,4 days 9 hours 43 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BBC-PTZ1 ( 172.18.0.103 ),SNMP Device,96.94,30 days 1 hours 14 minutes 0 seconds ,3.06,,0 days 22 hours 45 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-FIX1 ( 172.18.1.145 ),SNMP Device,97.74,30 days 7 hours 11 minutes 7 seconds ,2.26,,0 days 16 hours 48 minutes 52 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-PTZ1 ( 172.18.0.108 ),SNMP Device,98.16,30 days 10 hours 18 minutes 37 seconds ,1.84,,0 days 13 hours 41 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC _GF Lift ( 172.16.5.101 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-IC-FIX4 ( 172.18.1.137 ),SNMP Device,99.48,30 days 20 hours 7 minutes 51 seconds ,0.52,,0 days 3 hours 52 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-JMC-PTZ1 ( 172.18.0.110 ),SNMP Device,95.51,29 days 14 hours 35 minutes 39 seconds ,4.49,,1 days 9 hours 24 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BBC-FIX2 ( 172.18.1.109 ),SNMP Device,96.92,30 days 1 hours 5 minutes 4 seconds ,3.08,,0 days 22 hours 54 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-SF_Corridor ( 172.16.5.125 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GB-PTZ1 ( 172.18.0.138 ),SNMP Device,99.43,30 days 19 hours 45 minutes 32 seconds ,0.57,,0 days 4 hours 14 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-FIX2 ( 172.18.1.149 ),SNMP Device,60.59,18 days 18 hours 47 minutes 22 seconds ,39.41,,12 days 5 hours 12 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-PC-PTZ1 ( 172.18.0.135 ),SNMP Device,98.28,30 days 11 hours 12 minutes 11 seconds ,1.72,,0 days 12 hours 47 minutes 48 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-FIX4 ( 172.18.1.155 ),SNMP Device,97.17,30 days 2 hours 56 minutes 40 seconds ,2.83,,0 days 21 hours 3 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-PTZ1 ( 172.18.0.119 ),SNMP Device,85.88,26 days 14 hours 56 minutes 49 seconds ,14.12,,4 days 9 hours 3 minutes 10 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-FIX4 ( 172.18.1.163 ),SNMP Device,97.85,30 days 8 hours 0 minutes 14 seconds ,2.15,,0 days 15 hours 59 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-FIX2 ( 172.18.1.121 ),SNMP Device,97.27,30 days 3 hours 41 minutes 19 seconds ,2.73,,0 days 20 hours 18 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CIMS2-FIX2 ( 172.18.1.226 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-BNC-FIX1 ( 172.18.1.211 ),SNMP Device,96.78,30 days 0 hours 2 minutes 35 seconds ,3.22,,0 days 23 hours 57 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CO-PTZ1 ( 172.18.0.137 ),SNMP Device,92.93,28 days 19 hours 23 minutes 56 seconds ,7.07,,2 days 4 hours 36 minutes 3 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-FIX3 ( 172.18.1.114 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ICCC-SF_UPSRoom ( 172.16.5.122 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-FF_City_ControlRoom1 ( 172.16.5.113 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RVR-FIX1 ( 172.18.1.239 ),SNMP Device,93.82,29 days 2 hours 1 minutes 14 seconds ,6.18,,1 days 21 hours 58 minutes 45 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-PTZ1 ( 172.18.0.116 ),SNMP Device,97.67,30 days 6 hours 39 minutes 52 seconds ,2.33,,0 days 17 hours 20 minutes 7 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-PC-FIX2 ( 172.18.1.228 ),SNMP Device,97.26,30 days 3 hours 36 minutes 51 seconds ,2.74,,0 days 20 hours 23 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-FRONT SIDE1 ( 172.16.5.136 ),Ping,99.98,30 days 10 hours 32 minutes 23 seconds ,0.02,,0 days 0 hours 8 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-FIX1 ( 172.18.1.124 ),SNMP Device,98.5,30 days 12 hours 50 minutes 23 seconds ,1.5,,0 days 11 hours 9 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-PTZ1 ( 172.18.0.106 ),SNMP Device,97.19,30 days 3 hours 5 minutes 36 seconds ,2.81,,0 days 20 hours 54 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-FIX4 ( 172.18.1.130 ),SNMP Device,98.13,30 days 10 hours 5 minutes 13 seconds ,1.87,,0 days 13 hours 54 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-PTZ1 ( 172.18.0.117 ),SNMP Device,71.02,22 days 0 hours 23 minutes 19 seconds ,28.98,,8 days 23 hours 36 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RNC-FIX1 ( 172.18.1.217 ),SNMP Device,98.36,30 days 11 hours 47 minutes 53 seconds ,1.64,,0 days 12 hours 12 minutes 6 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MGPC-FIX4 ( 172.18.1.144 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-BC-FIX2 ( 172.18.1.106 ),SNMP Device,93.86,29 days 2 hours 19 minutes 5 seconds ,6.14,,1 days 21 hours 40 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-FIX1 ( 172.18.1.127 ),SNMP Device,92.53,28 days 16 hours 25 minutes 23 seconds ,7.47,,2 days 7 hours 34 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CO-FIX1 ( 172.18.1.233 ),SNMP Device,92.94,28 days 19 hours 28 minutes 24 seconds ,7.06,,2 days 4 hours 31 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-36M-PTZ1 ( 172.18.0.136 ),SNMP Device,88.89,27 days 13 hours 20 minutes 29 seconds ,11.11,,3 days 10 hours 39 minutes 30 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-FIX3 ( 172.18.1.213 ),SNMP Device,96.81,30 days 0 hours 15 minutes 58 seconds ,3.19,,0 days 23 hours 44 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MGPC-PTZ1 ( 172.18.0.111 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ICCC-GF_Corridor ( 172.16.5.109 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-FIX1 ( 172.18.1.160 ),SNMP Device,94.86,29 days 9 hours 45 minutes 29 seconds ,5.14,,1 days 14 hours 14 minutes 30 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GB-FIX2 ( 172.18.1.237 ),SNMP Device,99.55,30 days 20 hours 39 minutes 6 seconds ,0.45,,0 days 3 hours 20 minutes 53 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-FIX2 ( 172.18.1.242 ),SNMP Device,90.73,28 days 3 hours 1 minutes 52 seconds ,9.27,,2 days 20 hours 58 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-FIX2 ( 172.18.1.157 ),SNMP Device,85.61,26 days 12 hours 56 minutes 18 seconds ,14.39,,4 days 11 hours 3 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-FIX1 ( 172.18.1.177 ),SNMP Device,98.7,30 days 14 hours 19 minutes 40 seconds ,1.3,,0 days 9 hours 40 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CIMS-PTZ1 ( 172.18.0.133 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-TBAC-FIX1 ( 172.18.1.218 ),SNMP Device,83.88,26 days 0 hours 4 minutes 1 seconds ,14.31,,4 days 10 hours 27 minutes 59 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-ICCC_City Operation Room ( 172.16.5.141 ),SNMP Device,99.69,30 days 21 hours 41 minutes 36 seconds ,0.31,,0 days 2 hours 18 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-FIX2 ( 172.18.1.212 ),SNMP Device,96.79,30 days 0 hours 7 minutes 3 seconds ,3.21,,0 days 23 hours 52 minutes 57 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RVR-PTZ1 ( 172.18.0.139 ),SNMP Device,93.83,29 days 2 hours 5 minutes 42 seconds ,6.17,,1 days 21 hours 54 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GB-FIX3 ( 172.18.1.238 ),SNMP Device,99.48,30 days 20 hours 7 minutes 51 seconds ,0.52,,0 days 3 hours 52 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ANC-PTZ1 ( 172.18.0.126 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-VRP-PTZ1 ( 172.18.0.121 ),SNMP Device,96.29,29 days 20 hours 23 minutes 51 seconds ,3.71,,1 days 3 hours 36 minutes 9 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-PTZ1 ( 172.18.0.140 ),SNMP Device,87.9,27 days 5 hours 58 minutes 33 seconds ,12.1,,3 days 18 hours 1 minutes 26 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-FIX1 ( 172.18.1.152 ),SNMP Device,97.11,30 days 2 hours 29 minutes 53 seconds ,2.89,,0 days 21 hours 30 minutes 6 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-FF_Corridor ( 172.16.5.112 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-FIX3 ( 172.18.1.103 ),SNMP Device,86.37,26 days 18 hours 35 minutes 33 seconds ,11.82,,3 days 15 hours 56 minutes 27 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-BC-PTZ1 ( 172.18.0.102 ),SNMP Device,93.59,29 days 0 hours 18 minutes 34 seconds ,6.41,,1 days 23 hours 41 minutes 25 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-FIX1 ( 172.18.1.207 ),SNMP Device,99.48,30 days 20 hours 7 minutes 51 seconds ,0.52,,0 days 3 hours 52 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-FIX4 ( 172.18.1.151 ),SNMP Device,56.12,17 days 9 hours 31 minutes 58 seconds ,43.88,,13 days 14 hours 28 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-PTZ1 ( 172.18.0.120 ),SNMP Device,98.69,30 days 14 hours 15 minutes 12 seconds ,1.31,,0 days 9 hours 44 minutes 47 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ST-FIX1 ( 172.18.1.203 ),SNMP Device,99.59,30 days 20 hours 56 minutes 58 seconds ,0.41,,0 days 3 hours 3 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-FIX4 ( 172.18.1.198 ),SNMP Device,96.81,30 days 0 hours 15 minutes 58 seconds ,3.19,,0 days 23 hours 44 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ANC-FIX2 ( 172.18.1.200 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MGPC-FIX2 ( 172.18.1.142 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ANC-FIX1 ( 172.18.1.199 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MM-FIX4 ( 172.18.1.194 ),SNMP Device,99.14,30 days 17 hours 36 minutes 5 seconds ,0.86,,0 days 6 hours 23 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RVR-FIX2 ( 172.18.1.240 ),SNMP Device,93.74,29 days 1 hours 25 minutes 31 seconds ,6.26,,1 days 22 hours 34 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-PTZ1 ( 172.18.0.122 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-CMD-FIX4 ( 172.18.1.119 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-CIMS-FIX4 ( 172.18.1.224 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-CIMS-FIX1 ( 172.18.1.221 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-DNC-FIX4 ( 172.18.1.123 ),SNMP Device,97.22,30 days 3 hours 19 minutes 0 seconds ,2.78,,0 days 20 hours 40 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-FIX3 ( 172.18.1.158 ),SNMP Device,89.75,27 days 19 hours 44 minutes 23 seconds ,10.25,,3 days 4 hours 15 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ICCC-SF_FarmArea ( 172.16.5.123 ),Ping,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DDG-PTZ1 ( 172.18.0.130 ),SNMP Device,98.55,30 days 13 hours 12 minutes 42 seconds ,1.45,,0 days 10 hours 47 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-PC-FIX4 ( 172.18.1.230 ),SNMP Device,98.42,30 days 12 hours 14 minutes 40 seconds ,1.58,,0 days 11 hours 45 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-FIX2 ( 172.18.1.113 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MPC-FIX1 ( 172.18.1.148 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,100,,30 days 23 hours 59 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-IC-PTZ1 ( 172.18.0.109 ),SNMP Device,99.4,30 days 19 hours 32 minutes 9 seconds ,0.6,,0 days 4 hours 27 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-FIX3 ( 172.18.1.126 ),SNMP Device,98.52,30 days 12 hours 59 minutes 19 seconds ,1.48,,0 days 11 hours 0 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-PTZ1 ( 172.18.0.124 ),SNMP Device,99.24,30 days 18 hours 20 minutes 43 seconds ,0.76,,0 days 5 hours 39 minutes 16 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BBC-FIX4 ( 172.18.1.111 ),SNMP Device,96.99,30 days 1 hours 36 minutes 19 seconds ,3.01,,0 days 22 hours 23 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-PTZ1 ( 172.18.0.129 ),SNMP Device,96.02,29 days 18 hours 23 minutes 19 seconds ,3.98,,1 days 5 hours 36 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ST-FIX3 ( 172.18.1.205 ),SNMP Device,99.5,30 days 20 hours 16 minutes 47 seconds ,0.5,,0 days 3 hours 43 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-FIX3 ( 172.18.1.147 ),SNMP Device,97.49,30 days 5 hours 19 minutes 31 seconds ,2.51,,0 days 18 hours 40 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GB-FIX1 ( 172.18.1.236 ),SNMP Device,99.53,30 days 20 hours 30 minutes 11 seconds ,0.47,,0 days 3 hours 29 minutes 48 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-PC-FIX3 ( 172.18.1.229 ),SNMP Device,98.39,30 days 12 hours 1 minutes 17 seconds ,1.61,,0 days 11 hours 58 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RLY-FIX2 ( 172.18.1.245 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ICCC-FF_City_ControlRoom2 ( 172.16.5.114 ),SNMP Device,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ST-PTZ1 ( 172.18.0.127 ),SNMP Device,99.52,30 days 20 hours 25 minutes 43 seconds ,0.48,,0 days 3 hours 34 minutes 16 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CIMS2-PTZ1 ( 172.18.0.134 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ASC-FIX2 ( 172.18.1.102 ),SNMP Device,86.35,26 days 18 hours 26 minutes 38 seconds ,11.84,,3 days 16 hours 5 minutes 22 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-DNC-FIX3 ( 172.18.1.122 ),SNMP Device,97.27,30 days 3 hours 41 minutes 19 seconds ,2.73,,0 days 20 hours 18 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-FIX3 ( 172.18.1.154 ),SNMP Device,93.31,28 days 22 hours 13 minutes 34 seconds ,6.69,,2 days 1 hours 46 minutes 25 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-FIX4 ( 172.18.1.159 ),SNMP Device,88.77,27 days 12 hours 26 minutes 55 seconds ,11.23,,3 days 11 hours 33 minutes 4 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MGPC-FIX3 ( 172.18.1.143 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MGPC-FIX1 ( 172.18.1.141 ),SNMP Device,86.37,26 days 18 hours 35 minutes 33 seconds ,11.82,,3 days 15 hours 56 minutes 27 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-PC-FIX1 ( 172.18.1.227 ),SNMP Device,98.37,30 days 11 hours 52 minutes 21 seconds ,1.63,,0 days 12 hours 7 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-FIX1 ( 172.18.1.101 ),SNMP Device,86.35,26 days 18 hours 26 minutes 38 seconds ,11.84,,3 days 16 hours 5 minutes 22 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-HC-PTZ1 ( 172.18.0.104 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-RGC-FIX3 ( 172.18.1.197 ),SNMP Device,96.81,30 days 0 hours 15 minutes 58 seconds ,3.19,,0 days 23 hours 44 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCl-ICCC-SF_BoardRoom ( 172.16.5.120 ),SNMP Device,99.98,30 days 12 hours 55 minutes 15 seconds ,0.02,,0 days 0 hours 8 minutes 48 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DDG-FIX1 ( 172.18.1.215 ),SNMP Device,98.65,30 days 13 hours 57 minutes 21 seconds ,1.35,,0 days 10 hours 2 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-FIX3 ( 172.18.1.129 ),SNMP Device,98.13,30 days 10 hours 5 minutes 13 seconds ,1.87,,0 days 13 hours 54 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-FIX3 ( 172.18.1.243 ),SNMP Device,90.69,28 days 2 hours 44 minutes 0 seconds ,9.31,,2 days 21 hours 15 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-FIX1 ( 172.18.1.184 ),SNMP Device,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-NC-FIX2 ( 172.18.1.161 ),SNMP Device,98.12,30 days 10 hours 0 minutes 45 seconds ,1.88,,0 days 13 hours 59 minutes 14 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RNC-PTZ1 ( 172.18.0.131 ),SNMP Device,98.32,30 days 11 hours 30 minutes 2 seconds ,1.68,,0 days 12 hours 29 minutes 57 seconds ,0,0 days 0 hours 0 minutes 0 seconds
