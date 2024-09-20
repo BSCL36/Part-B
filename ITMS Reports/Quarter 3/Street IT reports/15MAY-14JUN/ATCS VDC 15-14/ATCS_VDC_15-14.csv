@@ -1,0 +1,93 @@
+Report Name : ATCS VDC,,,,,,,,
+Name : ATCS VDC,,,,,,,,
+Time Span: From 15 May  2024 12:00:00 AM To 14 Jun  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-DNC-ATCS-VDC3 ( 172.19.1.116 ),Ping,97.2,30 days 3 hours 10 minutes 4 seconds ,2.8,,0 days 20 hours 49 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-ATCS-VDC4 ( 172.19.1.179 ),Ping,99.44,30 days 19 hours 50 minutes 0 seconds ,0.56,,0 days 4 hours 9 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-ATCS-VDC1 ( 172.19.1.106 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-DNC-ATCS-VDC1 ( 172.19.1.114 ),Ping,97.21,30 days 3 hours 14 minutes 32 seconds ,2.79,,0 days 20 hours 45 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-ATCS-VDC1 ( 172.19.1.110 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 2 seconds 
+BSCL-VVC-ATCS-VDC2 ( 172.19.1.166 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-ASC-ATCS-VDC1 ( 172.19.1.101 ),Ping,86.37,26 days 18 hours 31 minutes 58 seconds ,11.82,,3 days 15 hours 55 minutes 57 seconds ,1.81,0 days 13 hours 27 minutes 54 seconds 
+BSCL-GC-ATCS-VDC3 ( 172.19.1.120 ),Ping,98.51,30 days 12 hours 50 minutes 20 seconds ,1.49,,0 days 11 hours 5 minutes 4 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-ATCS-VDC2 ( 172.19.1.119 ),Ping,98.58,30 days 13 hours 26 minutes 6 seconds ,1.42,,0 days 10 hours 33 minutes 53 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-ATCS-VDC1 ( 172.19.1.141 ),Ping,95,29 days 10 hours 47 minutes 59 seconds ,5,,1 days 13 hours 12 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-ATCS-VDC2 ( 172.19.1.134 ),Ping,97.14,30 days 2 hours 39 minutes 14 seconds ,2.86,,0 days 21 hours 16 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-ATCS-VDC1 ( 172.19.1.172 ),Ping,96.83,30 days 0 hours 20 minutes 52 seconds ,3.17,,0 days 23 hours 34 minutes 57 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-ATCS-VDC3 ( 172.19.1.182 ),Ping,96.82,30 days 0 hours 20 minutes 26 seconds ,3.18,,0 days 23 hours 39 minutes 33 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-ATCS-VDC3 ( 172.19.1.186 ),Ping,82.74,25 days 15 hours 35 minutes 7 seconds ,17.26,,5 days 8 hours 24 minutes 52 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-ATCS-VDC1 ( 172.19.1.180 ),Ping,96.84,30 days 0 hours 29 minutes 22 seconds ,3.16,,0 days 23 hours 30 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-ATCS-VDC4 ( 172.19.1.183 ),Ping,96.82,30 days 0 hours 15 minutes 55 seconds ,3.18,,0 days 23 hours 39 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-ATCS-VDC1 ( 172.19.1.158 ),Ping,98.71,30 days 14 hours 24 minutes 8 seconds ,1.29,,0 days 9 hours 35 minutes 51 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-ATCS-VDC2 ( 172.19.1.142 ),Ping,94.32,29 days 5 hours 41 minutes 28 seconds ,5.68,,1 days 18 hours 15 minutes 22 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-ATCS-VDC3 ( 172.19.1.156 ),Ping,72.57,22 days 11 hours 55 minutes 14 seconds ,27.43,,8 days 12 hours 4 minutes 45 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-ATCS-VDC4 ( 172.19.1.125 ),Ping,98.16,30 days 10 hours 14 minutes 31 seconds ,1.84,,0 days 13 hours 41 minutes 18 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-ATCS-VDC2 ( 172.19.1.151 ),Ping,99.38,30 days 19 hours 14 minutes 31 seconds ,0.62,,0 days 4 hours 36 minutes 43 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-ATCS-VDC4 ( 172.19.1.104 ),Ping,86.38,26 days 18 hours 40 minutes 1 seconds ,11.81,,3 days 15 hours 51 minutes 59 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-GNC-ATCS-VDC3 ( 172.19.1.124 ),Ping,98.14,30 days 10 hours 9 minutes 41 seconds ,1.86,,0 days 13 hours 50 minutes 18 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-ATCS-VDC3 ( 172.19.1.147 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-SC-ATCS-VDC4 ( 172.19.1.153 ),Ping,99.36,30 days 19 hours 5 minutes 6 seconds ,0.64,,0 days 4 hours 45 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-ATCS-VDC2 ( 172.19.1.127 ),Ping,97.95,30 days 8 hours 41 minutes 47 seconds ,2.05,,0 days 15 hours 15 minutes 3 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-ATCS-VDC2 ( 172.19.1.185 ),Ping,88.19,27 days 8 hours 3 minutes 53 seconds ,11.81,,3 days 15 hours 51 minutes 26 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-ATCS-VDC4 ( 172.19.1.168 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 32 seconds 
+BSCL-HC-ATCS-VDC3 ( 172.19.1.108 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 51 minutes 24 seconds 
+BSCL-MDC-ATCS-VDC3 ( 172.19.1.135 ),Ping,97.17,30 days 2 hours 56 minutes 40 seconds ,2.83,,0 days 21 hours 3 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-ATCS-VDC1 ( 172.19.1.137 ),Ping,89.7,27 days 19 hours 18 minutes 20 seconds ,10.3,,3 days 4 hours 37 minutes 29 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-ATCS-VDC3 ( 172.19.1.171 ),Ping,98.71,30 days 14 hours 15 minutes 0 seconds ,1.29,,0 days 9 hours 35 minutes 44 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-ATCS-VDC4 ( 172.19.1.117 ),Ping,97.19,30 days 3 hours 1 minutes 4 seconds ,2.81,,0 days 20 hours 54 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-ATCS-VDC3 ( 172.19.1.112 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 2 seconds 
+BSCL-MPC-ATCS-VDC3 ( 172.19.1.131 ),Ping,85.6,26 days 12 hours 51 minutes 50 seconds ,14.4,,4 days 11 hours 8 minutes 9 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-ATCS-VDC3 ( 172.19.1.160 ),Ping,98.71,30 days 14 hours 24 minutes 8 seconds ,1.29,,0 days 9 hours 35 minutes 51 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-ATCS-VDC1 ( 172.19.1.122 ),Ping,73.02,22 days 15 hours 12 minutes 42 seconds ,26.98,,8 days 8 hours 42 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-ATCS-VDC2 ( 172.19.1.111 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 32 seconds 
+BSCL-FRC-ATCS-VDC1 ( 172.19.1.154 ),Ping,85.94,26 days 15 hours 23 minutes 36 seconds ,14.06,,4 days 8 hours 36 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-ATCS-VDC1 ( 172.19.1.150 ),Ping,99.36,30 days 19 hours 14 minutes 17 seconds ,0.64,,0 days 4 hours 45 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-ATCS-VDC3 ( 172.19.1.178 ),Ping,99.42,30 days 19 hours 36 minutes 56 seconds ,0.58,,0 days 4 hours 18 minutes 53 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-ATCS-VDC2 ( 172.19.1.163 ),Ping,96.31,29 days 20 hours 32 minutes 46 seconds ,3.69,,1 days 3 hours 27 minutes 13 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-ATCS-VDC2 ( 172.19.1.115 ),Ping,97.17,30 days 2 hours 52 minutes 8 seconds ,2.83,,0 days 21 hours 3 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-ATCS-VDC1 ( 172.19.1.145 ),Ping,71.03,22 days 0 hours 27 minutes 47 seconds ,28.97,,8 days 23 hours 32 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-ATCS-VDC3 ( 172.19.1.164 ),Ping,96.27,29 days 20 hours 14 minutes 55 seconds ,3.73,,1 days 3 hours 45 minutes 4 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-ATCS-VDC2 ( 172.19.1.146 ),Ping,71.03,22 days 0 hours 21 minutes 13 seconds ,28.97,,8 days 23 hours 29 minutes 31 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-ATCS-VDC1 ( 172.19.1.118 ),Ping,98.53,30 days 13 hours 3 minutes 47 seconds ,1.47,,0 days 10 hours 56 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-ATCS-VDC1 ( 172.19.1.129 ),Ping,60.63,18 days 19 hours 2 minutes 24 seconds ,39.37,,12 days 4 hours 52 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-ATCS-VDC1 ( 172.19.1.184 ),Ping,88.07,27 days 7 hours 10 minutes 19 seconds ,11.93,,3 days 16 hours 45 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-ATCS-VDC1 ( 172.19.1.176 ),Ping,97.83,30 days 7 hours 46 minutes 44 seconds ,2.17,,0 days 16 hours 8 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-ATCS-VDC1 ( 172.19.1.165 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 21 seconds 
+BSCL-MMC-ATCS-VDC1 ( 172.19.1.126 ),Ping,97.97,30 days 8 hours 53 minutes 48 seconds ,2.03,,0 days 15 hours 6 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-ATCS-VDC4 ( 172.19.1.175 ),Ping,96.81,30 days 0 hours 11 minutes 56 seconds ,3.19,,0 days 23 hours 43 minutes 53 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-ATCS-VDC5 ( 172.19.1.149 ),Ping,67.61,20 days 22 hours 57 minutes 56 seconds ,32.39,,10 days 0 hours 57 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-ATCS-VDC2 ( 172.19.1.159 ),Ping,98.69,30 days 14 hours 11 minutes 39 seconds ,1.31,,0 days 9 hours 44 minutes 44 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-ATCS-VDC3 ( 172.19.1.128 ),Ping,97.97,30 days 8 hours 53 minutes 48 seconds ,2.03,,0 days 15 hours 6 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-ATCS-VDC4 ( 172.19.1.132 ),Ping,57.8,17 days 21 hours 56 minutes 51 seconds ,42.2,,13 days 1 hours 54 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-ATCS-VDC1 ( 172.19.1.133 ),Ping,97.15,30 days 2 hours 47 minutes 45 seconds ,2.85,,0 days 21 hours 12 minutes 14 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-ATCS-VDC3 ( 172.19.1.139 ),Ping,89.79,27 days 20 hours 2 minutes 15 seconds ,10.21,,3 days 3 hours 57 minutes 45 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-ATCS-VDC4 ( 172.19.1.136 ),Ping,97.13,30 days 2 hours 34 minutes 22 seconds ,2.87,,0 days 21 hours 21 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-ATCS-VDC4 ( 172.19.1.109 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 32 seconds 
+BSCL-NC-ATCS-VDC4 ( 172.19.1.144 ),Ping,98.1,30 days 9 hours 51 minutes 50 seconds ,1.9,,0 days 14 hours 8 minutes 10 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-ATCS-VDC2 ( 172.19.1.138 ),Ping,89.79,27 days 20 hours 2 minutes 15 seconds ,10.21,,3 days 3 hours 57 minutes 45 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-ATCS-VDC2 ( 172.19.1.155 ),Ping,85.94,26 days 15 hours 23 minutes 36 seconds ,14.06,,4 days 8 hours 36 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-ATCS-VDC2 ( 172.19.1.123 ),Ping,98.13,30 days 10 hours 5 minutes 13 seconds ,1.87,,0 days 13 hours 54 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-ATCS-VDC2 ( 172.19.1.102 ),Ping,86.37,26 days 18 hours 35 minutes 33 seconds ,11.82,,3 days 15 hours 56 minutes 27 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-NC-ATCS-VDC3 ( 172.19.1.143 ),Ping,98.06,30 days 9 hours 33 minutes 58 seconds ,1.94,,0 days 14 hours 26 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-ATCS-VDC4 ( 172.19.1.113 ),Ping,97.83,30 days 7 hours 51 minutes 18 seconds ,2.17,,0 days 16 hours 8 minutes 41 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-ATCS-VDC1 ( 172.19.1.162 ),Ping,96.09,29 days 18 hours 54 minutes 34 seconds ,3.91,,1 days 5 hours 5 minutes 25 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-ATCS-VDC2 ( 172.19.1.107 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 56 minutes 2 seconds 
+BSCL-RGC-ATCS-VDC3 ( 172.19.1.174 ),Ping,96.84,30 days 0 hours 29 minutes 22 seconds ,3.16,,0 days 23 hours 30 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-ATCS-VDC4 ( 172.19.1.140 ),Ping,89.78,27 days 19 hours 53 minutes 40 seconds ,10.22,,3 days 4 hours 1 minutes 44 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-ATCS-VDC1 ( 172.19.1.169 ),Ping,98.77,30 days 14 hours 47 minutes 21 seconds ,1.23,,0 days 9 hours 9 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-ATCS-VDC2 ( 172.19.1.173 ),Ping,96.81,30 days 0 hours 11 minutes 31 seconds ,3.19,,0 days 23 hours 43 minutes 52 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-ATCS-VDC4 ( 172.19.1.157 ),Ping,85.88,26 days 14 hours 56 minutes 49 seconds ,14.12,,4 days 9 hours 3 minutes 10 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-ATCS-VDC2 ( 172.19.1.130 ),Ping,85.6,26 days 12 hours 51 minutes 50 seconds ,14.4,,4 days 11 hours 8 minutes 9 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-ATCS-VDC2 ( 172.19.1.177 ),Ping,99.44,30 days 19 hours 50 minutes 0 seconds ,0.56,,0 days 4 hours 9 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-ATCS-VDC3 ( 172.19.1.152 ),Ping,99.34,30 days 18 hours 56 minutes 40 seconds ,0.66,,0 days 4 hours 54 minutes 34 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-ATCS-VDC4 ( 172.19.1.148 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-VVC-ATCS-VDC3 ( 172.19.1.167 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 21 seconds 
+BSCL-MMT-ATCS-VDC2 ( 172.19.1.170 ),Ping,98.68,30 days 14 hours 6 minutes 38 seconds ,1.32,,0 days 9 hours 49 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-ATCS-VDC2 ( 172.19.1.181 ),Ping,96.83,30 days 0 hours 24 minutes 54 seconds ,3.17,,0 days 23 hours 35 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-ATCS-VDC3 ( 172.19.1.103 ),Ping,86.35,26 days 18 hours 26 minutes 38 seconds ,11.84,,3 days 16 hours 5 minutes 22 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+Name : ATCS VDC,,,,,,,,
+Time Span: From 15 May  2024 12:00:00 AM To 14 Jun  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,77.83,,,
+Maintenance (%),,,,,15.75,,,
+Down (%),,,,,6.42,,,
