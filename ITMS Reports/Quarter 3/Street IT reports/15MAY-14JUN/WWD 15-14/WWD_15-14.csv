@@ -1,0 +1,17 @@
+Report Name : WWD,,,,,,,,,
+Name : WWD,,,,,,,,,
+Time Span: From 15 May  2024 12:00:00 AM To 14 Jun  2024 11:59:59 PM,,,,,,,,,
+Monitor,IP Address,Type,Up (%),Up Time,,Down (%),Down Time,Maintenance (%),Maintenance Time
+BSCL-GB-WWD-EC1 ( 172.22.3.126 ),172.22.3.126,Ping,96.54,29 days 22 hours 15 minutes 27 seconds ,,3.46,1 days 1 hours 44 minutes 33 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GB-WWD-EC2 ( 172.22.3.128 ),172.22.3.128,Ping,99.35,30 days 19 hours 9 minutes 50 seconds ,,0.65,0 days 4 hours 50 minutes 10 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-WWD-EC1 ( 172.22.3.104 ),172.22.3.104,Ping,55.8,17 days 7 hours 9 minutes 7 seconds ,,44.2,13 days 16 hours 50 minutes 52 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-WWD-EC2 ( 172.22.3.110 ),172.22.3.110,Ping,96.86,30 days 0 hours 38 minutes 17 seconds ,,3.14,0 days 23 hours 21 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-WWD-EC1 ( 172.22.3.101 ),172.22.3.101,Ping,83.64,25 days 22 hours 16 minutes 53 seconds ,,14.55,4 days 12 hours 15 minutes 7 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-SC-WWD-EC1 ( 172.22.3.114 ),172.22.3.114,Ping,96.16,29 days 19 hours 21 minutes 20 seconds ,,3.84,1 days 4 hours 34 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-WWD-EC1 ( 172.22.3.108 ),172.22.3.108,Ping,97.39,30 days 4 hours 34 minutes 53 seconds ,,2.61,0 days 19 hours 25 minutes 6 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+Name : WWD,,,,,,,,,
+Time Span: From 15 May  2024 12:00:00 AM To 14 Jun  2024 11:59:59 PM,,,,,,,,,
+status,,,,,value,,,,
+Up (%),,,,,89.39,,,,
+Maintenance (%),,,,,0.26,,,,
+Down (%),,,,,10.35,,,,
