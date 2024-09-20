@@ -1,0 +1,91 @@
+Report Name : RLVD EC,,,,,,,,
+Name : RLVD EC,,,,,,,,
+Time Span: From 15 May  2024 12:00:00 AM To 14 Jun  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-GNC-RLVD-EC3 ( 172.22.2.122 ),Ping,98.15,30 days 10 hours 10 minutes 4 seconds ,1.85,,0 days 13 hours 45 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-EC2 ( 172.22.2.176 ),Ping,96.6,29 days 22 hours 42 minutes 14 seconds ,3.4,,1 days 1 hours 17 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-RLVD-EC3 ( 172.22.2.174 ),Ping,99.39,30 days 19 hours 23 minutes 7 seconds ,0.61,,0 days 4 hours 32 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-EC2 ( 172.22.2.148 ),Ping,85.87,26 days 14 hours 48 minutes 21 seconds ,14.13,,4 days 9 hours 6 minutes 58 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-RLVD-EC3 ( 172.22.2.153 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MN-RLVD-EC3 ( 172.22.2.183 ),Ping,90.37,28 days 0 hours 17 minutes 33 seconds ,9.63,,2 days 23 hours 38 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-EC3 ( 172.22.2.177 ),Ping,96.83,30 days 0 hours 24 minutes 54 seconds ,3.17,,0 days 23 hours 35 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-RLVD-EC3 ( 172.22.2.107 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-SC-RLVD-EC2 ( 172.22.2.144 ),Ping,99.34,30 days 19 hours 1 minutes 13 seconds ,0.66,,0 days 4 hours 54 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-RLVD-EC3 ( 172.22.2.169 ),Ping,96.82,30 days 0 hours 16 minutes 0 seconds ,3.18,,0 days 23 hours 39 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-RLVD-EC3 ( 172.22.2.115 ),Ping,97.22,30 days 3 hours 19 minutes 0 seconds ,2.78,,0 days 20 hours 40 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-RLVD-EC2 ( 172.22.2.159 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-GC-RLVD-EC2 ( 172.22.2.118 ),Ping,98.5,30 days 12 hours 46 minutes 17 seconds ,1.5,,0 days 11 hours 9 minutes 32 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-EC3 ( 172.22.2.188 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 51 minutes 24 seconds 
+BSCL-MDC-RLVD-EC3 ( 172.22.2.133 ),Ping,96.68,29 days 23 hours 13 minutes 30 seconds ,3.32,,1 days 0 hours 41 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-EC1 ( 172.22.2.147 ),Ping,85.92,26 days 15 hours 10 minutes 44 seconds ,14.08,,4 days 8 hours 44 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-RLVD-EC2 ( 172.22.2.152 ),Ping,98.63,30 days 13 hours 43 minutes 54 seconds ,1.37,,0 days 10 hours 11 minutes 30 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-RLVD-EC3 ( 172.22.2.129 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,100,,30 days 23 hours 55 minutes 49 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-EC3 ( 172.22.2.111 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-NC-RLVD-EC2 ( 172.22.2.140 ),Ping,97.47,30 days 5 hours 10 minutes 36 seconds ,2.53,,0 days 18 hours 49 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-RLVD-EC2 ( 172.22.2.106 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MPC-RLVD-EC4 ( 172.22.2.130 ),Ping,85.51,26 days 12 hours 11 minutes 39 seconds ,14.49,,4 days 11 hours 48 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-RLVD-EC3 ( 172.22.2.141 ),Ping,97.98,30 days 8 hours 53 minutes 41 seconds ,2.02,,0 days 15 hours 1 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-RLVD-EC1 ( 172.22.2.135 ),Ping,85.91,26 days 15 hours 10 minutes 13 seconds ,14.09,,4 days 8 hours 49 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-RLVD-EC1 ( 172.22.2.105 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 32 seconds 
+BSCL-TBC-RLVD-EC1 ( 172.22.2.171 ),Ping,99.37,30 days 19 hours 15 minutes 40 seconds ,0.63,,0 days 4 hours 41 minutes 13 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-EC2 ( 172.22.2.187 ),Ping,64.72,20 days 1 hours 27 minutes 49 seconds ,35.28,,10 days 22 hours 27 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-EC4 ( 172.22.2.123 ),Ping,97.99,30 days 9 hours 2 minutes 43 seconds ,2.01,,0 days 14 hours 57 minutes 16 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-EC1 ( 172.22.2.175 ),Ping,96.83,30 days 0 hours 20 minutes 28 seconds ,3.17,,0 days 23 hours 34 minutes 57 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-RLVD-EC3 ( 172.22.2.157 ),Ping,96.18,29 days 19 hours 34 minutes 44 seconds ,3.82,,1 days 4 hours 25 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-RLVD-EC2 ( 172.22.2.156 ),Ping,93.39,28 days 22 hours 45 minutes 23 seconds ,6.61,,2 days 1 hours 10 minutes 26 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-EC1 ( 172.22.2.101 ),Ping,86.17,26 days 17 hours 6 minutes 16 seconds ,12.02,,3 days 17 hours 25 minutes 44 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-SC-RLVD-EC4 ( 172.22.2.146 ),Ping,99.32,30 days 18 hours 51 minutes 48 seconds ,0.68,,0 days 5 hours 3 minutes 31 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-RLVD-EC2 ( 172.22.2.182 ),Ping,80.46,24 days 22 hours 33 minutes 59 seconds ,19.54,,6 days 1 hours 21 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-RLVD-EC4 ( 172.22.2.170 ),Ping,96.82,30 days 0 hours 16 minutes 0 seconds ,3.18,,0 days 23 hours 39 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-EC1 ( 172.22.2.109 ),Ping,96.25,29 days 20 hours 2 minutes 32 seconds ,3.75,,1 days 3 hours 53 minutes 52 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-RLVD-EC2 ( 172.22.2.136 ),Ping,89.67,27 days 19 hours 8 minutes 40 seconds ,10.33,,3 days 4 hours 51 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-RLVD-EC2 ( 172.22.2.125 ),Ping,97.9,30 days 8 hours 18 minutes 3 seconds ,2.1,,0 days 15 hours 37 minutes 21 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-RLVD-EC2 ( 172.22.2.172 ),Ping,99.4,30 days 19 hours 32 minutes 9 seconds ,0.6,,0 days 4 hours 27 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-RLVD-EC1 ( 172.22.2.151 ),Ping,95.12,29 days 11 hours 37 minutes 8 seconds ,4.88,,1 days 12 hours 18 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-EC2 ( 172.22.2.110 ),Ping,99.34,30 days 19 hours 0 minutes 48 seconds ,0.66,,0 days 4 hours 54 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-EC2 ( 172.22.2.121 ),Ping,98.05,30 days 9 hours 29 minutes 30 seconds ,1.95,,0 days 14 hours 30 minutes 29 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-RLVD-EC1 ( 172.22.2.167 ),Ping,96.85,30 days 0 hours 33 minutes 50 seconds ,3.15,,0 days 23 hours 26 minutes 10 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-RLVD-EC4 ( 172.22.2.108 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 32 seconds 
+BSCL-MMC-RLVD-EC1 ( 172.22.2.124 ),Ping,80.4,24 days 22 hours 10 minutes 33 seconds ,19.6,,6 days 1 hours 49 minutes 26 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-EC2 ( 172.22.2.132 ),Ping,96.16,29 days 19 hours 21 minutes 48 seconds ,3.84,,1 days 4 hours 34 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-RLVD-EC3 ( 172.22.2.119 ),Ping,98.52,30 days 12 hours 59 minutes 19 seconds ,1.48,,0 days 11 hours 0 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-EC4 ( 172.22.2.104 ),Ping,85.86,26 days 14 hours 47 minutes 54 seconds ,12.33,,3 days 19 hours 44 minutes 7 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-NC-RLVD-EC1 ( 172.22.2.139 ),Ping,95.17,29 days 11 hours 59 minutes 31 seconds ,4.83,,1 days 11 hours 55 minutes 53 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-RLVD-EC1 ( 172.22.2.158 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 2 seconds 
+BSCL-MPC-RLVD-EC1 ( 172.22.2.127 ),Ping,81.52,25 days 6 hours 30 minutes 31 seconds ,18.48,,5 days 17 hours 29 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-EC4 ( 172.22.2.134 ),Ping,96.63,29 days 22 hours 51 minutes 11 seconds ,3.37,,1 days 1 hours 4 minutes 13 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-RLVD-EC4 ( 172.22.2.138 ),Ping,88.75,27 days 12 hours 17 minutes 59 seconds ,11.25,,3 days 11 hours 42 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-RLVD-EC4 ( 172.22.2.142 ),Ping,97.78,30 days 7 hours 24 minutes 55 seconds ,2.22,,0 days 16 hours 30 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-RLVD-EC1 ( 172.22.2.143 ),Ping,99.36,30 days 19 hours 14 minutes 17 seconds ,0.64,,0 days 4 hours 45 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-EC1 ( 172.22.2.120 ),Ping,5.33,1 days 15 hours 39 minutes 3 seconds ,94.67,,29 days 8 hours 16 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-RLVD-EC1 ( 172.22.2.113 ),Ping,97.21,30 days 3 hours 14 minutes 32 seconds ,2.79,,0 days 20 hours 45 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-RLVD-EC3 ( 172.22.2.166 ),Ping,98.55,30 days 13 hours 12 minutes 42 seconds ,1.45,,0 days 10 hours 47 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-EC3 ( 172.22.2.149 ),Ping,84.34,26 days 3 hours 26 minutes 25 seconds ,15.66,,4 days 20 hours 30 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-RLVD-EC2 ( 172.22.2.114 ),Ping,95.05,29 days 11 hours 5 minutes 57 seconds ,4.95,,1 days 12 hours 49 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-EC2 ( 172.22.2.102 ),Ping,86.37,26 days 18 hours 35 minutes 33 seconds ,11.82,,3 days 15 hours 56 minutes 27 seconds ,1.81,0 days 13 hours 27 minutes 59 seconds 
+BSCL-GC-RLVD-EC1 ( 172.22.2.117 ),Ping,98.51,30 days 12 hours 54 minutes 51 seconds ,1.49,,0 days 11 hours 5 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-RLVD-EC3 ( 172.22.2.126 ),Ping,97.89,30 days 8 hours 18 minutes 5 seconds ,2.11,,0 days 15 hours 41 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-RLVD-EC4 ( 172.22.2.116 ),Ping,40.79,12 days 15 hours 28 minutes 39 seconds ,59.21,,18 days 8 hours 31 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-RLVD-EC2 ( 172.22.2.168 ),Ping,96.84,30 days 0 hours 29 minutes 22 seconds ,3.16,,0 days 23 hours 30 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-RLVD-EC1 ( 172.22.2.181 ),Ping,89.33,27 days 16 hours 36 minutes 54 seconds ,10.67,,3 days 7 hours 23 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-RLVD-EC3 ( 172.22.2.137 ),Ping,88.97,27 days 13 hours 52 minutes 7 seconds ,11.03,,3 days 10 hours 3 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-EC1 ( 172.22.2.186 ),Ping,71.02,22 days 0 hours 23 minutes 19 seconds ,28.98,,8 days 23 hours 36 minutes 40 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-EC3 ( 172.22.2.103 ),Ping,83.22,25 days 19 hours 5 minutes 32 seconds ,14.98,,4 days 15 hours 26 minutes 23 seconds ,1.8,0 days 13 hours 23 minutes 26 seconds 
+BSCL-FRC-RLVD-EC4 ( 172.22.2.150 ),Ping,84.49,26 days 4 hours 32 minutes 48 seconds ,15.51,,4 days 19 hours 23 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-RLVD-EC3 ( 172.22.2.160 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-OBS-RLVD-EC5 ( 172.22.2.190 ),Ping,71.02,22 days 0 hours 20 minutes 46 seconds ,28.98,,8 days 23 hours 35 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-EC4 ( 172.22.2.112 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 56 minutes 2 seconds 
+BSCL-MMT-RLVD-EC1 ( 172.22.2.164 ),Ping,98.68,30 days 14 hours 10 minutes 44 seconds ,1.32,,0 days 9 hours 49 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-EC1 ( 172.22.2.131 ),Ping,96.16,29 days 19 hours 25 minutes 49 seconds ,3.84,,1 days 4 hours 34 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-RLVD-EC1 ( 172.22.2.155 ),Ping,96.25,29 days 20 hours 1 minutes 31 seconds ,3.75,,1 days 3 hours 53 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-RLVD-EC2 ( 172.22.2.128 ),Ping,85.59,26 days 12 hours 43 minutes 31 seconds ,14.41,,4 days 11 hours 11 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-RLVD-EC3 ( 172.22.2.145 ),Ping,96.22,29 days 19 hours 52 minutes 36 seconds ,3.78,,1 days 4 hours 7 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-RLVD-EC2 ( 172.22.2.165 ),Ping,98.62,30 days 13 hours 39 minutes 51 seconds ,1.38,,0 days 10 hours 15 minutes 58 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-EC4 ( 172.22.2.178 ),Ping,96.84,30 days 0 hours 29 minutes 22 seconds ,3.16,,0 days 23 hours 30 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-EC4 ( 172.22.2.189 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+Name : RLVD EC,,,,,,,,
+Time Span: From 15 May  2024 12:00:00 AM To 14 Jun  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,76.15,,,
+Maintenance (%),,,,,14.9,,,
+Down (%),,,,,8.94,,,
