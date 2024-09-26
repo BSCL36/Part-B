@@ -1,0 +1,32 @@
+Report Name : IP PHONES,,,,,,,,
+Name : IP PHONES,,,,,,,,
+Time Span: From 15 Jun  2024 12:00:00 AM To 14 Jul  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,99.4,,,
+Down (%),,,,,0.6,,,
+Name : IP PHONES,,,,,,,,
+Time Span: From 15 Jun  2024 12:00:00 AM To 14 Jul  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+172.16.7.80,Ping,99.99,29 days 23 hours 51 minutes 18 seconds ,0.01,,0 days 0 hours 4 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.74,Ping,99.99,29 days 23 hours 51 minutes 18 seconds ,0.01,,0 days 0 hours 4 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.63,Ping,99.78,29 days 22 hours 20 minutes 23 seconds ,0.22,,0 days 1 hours 35 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.56,Ping,100,29 days 23 hours 56 minutes 35 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.78,Ping,99.99,29 days 23 hours 51 minutes 6 seconds ,0.01,,0 days 0 hours 4 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.69,Ping,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.81,Ping,100,29 days 23 hours 50 minutes 13 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.83,Ping,100,29 days 23 hours 50 minutes 13 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.58,Ping,99.49,29 days 20 hours 16 minutes 17 seconds ,0.51,,0 days 3 hours 40 minutes 18 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.55,Ping,94.08,28 days 5 hours 18 minutes 26 seconds ,5.92,,1 days 18 hours 37 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.52,Ping,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.75,Ping,97.55,29 days 6 hours 17 minutes 8 seconds ,2.45,,0 days 17 hours 38 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.66,Ping,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.72,Ping,98.31,29 days 11 hours 45 minutes 25 seconds ,1.69,,0 days 12 hours 10 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.60,Ping,100,29 days 23 hours 55 minutes 25 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.85,Ping,99.99,29 days 23 hours 55 minutes 40 seconds ,0.01,,0 days 0 hours 4 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.70,Ping,100,29 days 23 hours 55 minutes 37 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.57,Ping,99.65,29 days 21 hours 24 minutes 15 seconds ,0.35,,0 days 2 hours 31 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.53,Ping,100,29 days 23 hours 55 minutes 25 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.84,Ping,100,29 days 23 hours 55 minutes 37 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.79,Ping,100,29 days 23 hours 55 minutes 25 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.67,Ping,97.41,29 days 5 hours 21 minutes 7 seconds ,2.59,,0 days 18 hours 38 minutes 53 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+172.16.7.65,Ping,100,29 days 23 hours 55 minutes 37 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
