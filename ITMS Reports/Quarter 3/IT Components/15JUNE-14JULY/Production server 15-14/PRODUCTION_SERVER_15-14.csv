@@ -1,0 +1,32 @@
+Report Name : PRODUCTION SERVER,,,,,,,,
+Name : PRODUCTION SERVER,,,,,,,,
+Time Span: From 15 Jun  2024 12:00:00 AM To 14 Jul  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,99.99,,,
+Down (%),,,,,0.01,,,
+Name : PRODUCTION SERVER,,,,,,,,
+Time Span: From 15 Jun  2024 12:00:00 AM To 14 Jul  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-ESX42 ( 172.16.4.42 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX50 ( 172.16.4.50 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX52 ( 172.16.4.52 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX44 ( 172.16.4.44 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+CCTV_VM ( 172.16.4.52 - 172.16.4.56 ),VMware Virtual Machine,100,29 days 23 hours 56 minutes 9 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.4.48-AV-DB ( 172.16.4.48 ),VMware Virtual Machine,100,29 days 23 hours 56 minutes 19 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX251 ( 172.16.1.251 ),VMware ESX/ESXi,99.94,29 days 23 hours 34 minutes 4 seconds ,0.06,,0 days 0 hours 25 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+AV-SERVER (Failover Cluster) ( 172.16.4.150 ),Windows RDP,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.4.101,Windows DNS,100,29 days 23 hours 56 minutes 17 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX55 ( 172.16.4.55 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX49 ( 172.16.4.49 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+AV-SERVER2 ( 172.16.4.152 ),Windows RDP,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX46 ( 172.16.4.46 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX51 ( 172.16.4.51 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX250 ( 172.16.1.250 ),VMware ESX/ESXi,99.86,29 days 22 hours 59 minutes 30 seconds ,0.14,,0 days 1 hours 0 minutes 29 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX41 ( 172.16.4.41 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX45 ( 172.16.4.45 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+AVSERVER(KSEB Failover Server Cluster) ( 172.16.4.154 ),Windows RDP,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX43 ( 172.16.4.43 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX48 ( 172.16.4.48 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+172.16.4.102,Windows RDP,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX47 ( 172.16.4.47 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ESX54 ( 172.16.4.54 ),VMware ESX/ESXi,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
