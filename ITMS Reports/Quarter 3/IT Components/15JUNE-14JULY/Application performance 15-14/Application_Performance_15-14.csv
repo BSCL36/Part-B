@@ -1,0 +1,23 @@
+Report Name : Application Performance,,,,,,,,
+Name : Application Performance,,,,,,,,
+Time Span: From 15 Jun  2024 12:00:00 AM To 14 Jul  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,99.92,,,
+Down (%),,,,,0.08,,,
+Name : Application Performance,,,,,,,,
+Time Span: From 15 Jun  2024 12:00:00 AM To 14 Jul  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+SIEM ( https://172.16.1.200/login ),HTTP/HTTPS URL,100,29 days 23 hours 50 minutes 44 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+VMD ( http://172.16.0.207/#/login ),HTTP/HTTPS URL,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+PAM - Privelage Access Management ( https://172.16.4.242 ),HTTP/HTTPS URL,99.99,29 days 23 hours 55 minutes 40 seconds ,0.01,,0 days 0 hours 4 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+ISE-NAC ( https://172.16.4.120/admin/login.jsp ),HTTP/HTTPS URL,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+VCenter ( https://172.16.4.100/ui ),HTTP/HTTPS URL,100,29 days 23 hours 55 minutes 49 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+ATCS Application ( http://172.16.0.11/gui/html/ - 172.16.0.11 ),HTTP/HTTPS URL,98.92,29 days 16 hours 9 minutes 28 seconds ,1.08,,0 days 7 hours 46 minutes 31 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+ICCC-APPLICATION ( http://172.16.1.15:8090/XStudio/Login ),HTTP/HTTPS URL,100,29 days 23 hours 55 minutes 55 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+Contact Center ( https://172.16.4.180/ccmadmin/showHome.do ),HTTP/HTTPS URL,100,29 days 23 hours 56 minutes 14 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+VMS Application ( https://172.16.0.25/#!/ ),HTTP/HTTPS URL,100,29 days 23 hours 55 minutes 54 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+iBMS Application ( http://172.16.3.12/SecurityView/Login.aspx ),HTTP/HTTPS URL,100,29 days 23 hours 50 minutes 44 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+TES Application ( http://172.16.0.29:8080/eTmcsWeb/Home ),HTTP/HTTPS URL,99.99,29 days 23 hours 51 minutes 30 seconds ,0.01,,0 days 0 hours 4 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+ANPR Application ( http://172.16.0.28:8080/ANPR/login - 172.16.0.28 ),HTTP/HTTPS URL,100,29 days 23 hours 55 minutes 54 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+Smart pole Application ( http://172.16.0.209:8000/login ),HTTP/HTTPS URL,100,5 days 11 hours 21 minutes 22 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+EMS- APPLICATION ( https://172.16.0.50:8443 - http://172.16.0.50:8080/ ),HTTP/HTTPS URL,100,29 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
