@@ -1,0 +1,32 @@
+Report Name : ATCS Controller,,,,,,,,
+Name : ATCS ,,,,,,,,
+Time Span: From 15 Sep  2024 12:00:00 AM To 14 Oct  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,81.21,,,
+Maintenance (%),,,,,12.62,,,
+Down (%),,,,,6.17,,,
+Name : ATCS Controller,,,,,,,,
+Time Span: From 15 Sep  2024 12:00:00 AM To 14 Oct  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-NC-ATCS-CTRL ( 172.19.0.111 ),Ping,99.46,29 days 20 hours 6 minutes 42 seconds ,0.54,,0 days 3 hours 53 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-ATCS-CTRL ( 172.19.0.107 ),Ping,99.46,29 days 20 hours 6 minutes 42 seconds ,0.54,,0 days 3 hours 53 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-ATCS-CTRL ( 172.19.0.120 ),Ping,98.97,29 days 16 hours 32 minutes 2 seconds ,1.03,,0 days 7 hours 24 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-ATCS-CTRL ( 172.19.0.115 ),Ping,91.74,27 days 12 hours 31 minutes 40 seconds ,8.26,,2 days 11 hours 28 minutes 19 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-ATCS-CTRL ( 172.19.0.106 ),Ping,99.53,29 days 20 hours 29 minutes 26 seconds ,0.47,,0 days 3 hours 23 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-ATCS-CTRL ( 172.19.0.108 ),Ping,96.12,28 days 19 hours 55 minutes 56 seconds ,3.88,,1 days 3 hours 55 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-ATCS-CTRL ( 172.19.0.101 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,29 days 23 hours 50 minutes 46 seconds 
+BSCL-BNC-ATCS-CTRL ( 172.19.0.122 ),Ping,91.35,27 days 9 hours 39 minutes 4 seconds ,8.65,,2 days 14 hours 16 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-ATCS-CTRL ( 172.19.0.110 ),Ping,96.84,29 days 1 hours 11 minutes 27 seconds ,3.16,,0 days 22 hours 45 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-ATCS-CTRL ( 172.19.0.114 ),Ping,97.3,29 days 4 hours 25 minutes 6 seconds ,2.7,,0 days 19 hours 26 minutes 10 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-ATCS-CTRL ( 172.19.0.103 ),Ping,99.37,29 days 19 hours 24 minutes 18 seconds ,0.63,,0 days 4 hours 32 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-ATCS-CTRL ( 172.19.0.109 ),Ping,99.05,29 days 17 hours 9 minutes 35 seconds ,0.95,,0 days 6 hours 50 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-ATCS-CTRL ( 172.19.0.117 ),Ping,16.23,4 days 20 hours 50 minutes 42 seconds ,44.95,,13 days 11 hours 36 minutes 35 seconds ,38.82,11 days 15 hours 28 minutes 40 seconds 
+BSCL-OBS-ATCS-CTRL ( 172.19.0.112 ),Ping,68.31,20 days 11 hours 44 minutes 11 seconds ,31.69,,9 days 12 hours 7 minutes 25 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-ATCS-CTRL ( 172.19.0.113 ),Ping,99.19,29 days 18 hours 5 minutes 24 seconds ,0.81,,0 days 5 hours 49 minutes 53 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-ATCS-CTRL ( 172.19.0.121 ),Ping,99.81,29 days 22 hours 37 minutes 54 seconds ,0.19,,0 days 1 hours 22 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-ATCS-CTRL ( 172.19.0.102 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,29 days 23 hours 52 minutes 26 seconds 
+BSCL-MMT-ATCS-CTRL ( 172.19.0.118 ),Ping,99.37,29 days 19 hours 18 minutes 40 seconds ,0.63,,0 days 4 hours 32 minutes 6 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-ATCS-CTRL ( 172.19.0.105 ),Ping,38.21,11 days 11 hours 3 minutes 49 seconds ,22.97,,6 days 21 hours 21 minutes 18 seconds ,38.82,11 days 15 hours 27 minutes 17 seconds 
+BSCL-VRP-ATCS-CTRL ( 172.19.0.116 ),Ping,98.75,29 days 14 hours 57 minutes 0 seconds ,1.25,,0 days 8 hours 59 minutes 58 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-ATCS-CTRL ( 172.19.0.104 ),Ping,99.02,29 days 16 hours 48 minutes 0 seconds ,0.98,,0 days 7 hours 3 minutes 16 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-ATCS-CTRL ( 172.19.0.123 ),Ping,98.45,29 days 12 hours 41 minutes 19 seconds ,1.55,,0 days 11 hours 9 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
