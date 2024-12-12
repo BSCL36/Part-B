@@ -1,0 +1,211 @@
+Report Name : ANPR,,,,,,,,
+Name : ANPR,,,,,,,,
+Time Span: From 15 Aug  2024 12:00:00 AM To 14 Sep  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,77.05,,,
+Maintenance (%),,,,,16.2,,,
+Down (%),,,,,6.75,,,
+Name : ANPR -CAMERA,,,,,,,,
+Time Span: From 15 Aug  2024 12:00:00 AM To 14 Sep  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-SC-RLVD-ANPR5 ( 172.22.0.147 ),Ping,99.93,30 days 23 hours 28 minutes 44 seconds ,0.07,,0 days 0 hours 31 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-ANPR1 ( 172.22.0.66 ),Ping,99.37,30 days 19 hours 18 minutes 45 seconds ,0.63,,0 days 4 hours 41 minutes 14 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-ANPR2 ( 172.22.0.136 ),Ping,79.98,24 days 19 hours 3 minutes 4 seconds ,20.02,,6 days 4 hours 56 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-RLVD-ANPR1 ( 172.22.0.83 ),Ping,99.43,30 days 19 hours 45 minutes 32 seconds ,0.57,,0 days 4 hours 14 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-ANPR5 ( 172.22.0.115 ),Ping,98.44,30 days 12 hours 16 minutes 19 seconds ,1.56,,0 days 11 hours 36 minutes 16 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-ANPR4 ( 172.22.0.192 ),Ping,98.34,30 days 11 hours 38 minutes 58 seconds ,1.66,,0 days 12 hours 21 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-ANPR5 ( 172.22.0.217 ),Ping,98.07,30 days 9 hours 34 minutes 4 seconds ,1.93,,0 days 14 hours 21 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GB-WWD-ANPR2 ( 172.22.3.129 ),Ping,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-RLVD-ANPR1 ( 172.22.0.119 ),Ping,94.68,29 days 8 hours 25 minutes 8 seconds ,5.32,,1 days 15 hours 34 minutes 51 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-AC-ANPR4 ( 172.22.0.234 ),Ping,99.73,30 days 21 hours 59 minutes 27 seconds ,0.27,,0 days 2 hours 0 minutes 32 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-RLVD-ANPR3 ( 172.22.0.105 ),Ping,68.7,21 days 7 hours 4 minutes 17 seconds ,31.3,,9 days 16 hours 50 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-RLVD-ANPR3 ( 172.22.0.60 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 0 seconds 
+BSCL-MC-RLVD-ANPR7 ( 172.22.0.125 ),Ping,94.63,29 days 7 hours 58 minutes 8 seconds ,5.37,,1 days 15 hours 56 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-RLVD-ANPR2 ( 172.22.0.174 ),Ping,5.2,1 days 14 hours 41 minutes 2 seconds ,2.03,,0 days 15 hours 6 minutes 6 seconds ,92.77,28 days 18 hours 8 minutes 14 seconds 
+BSCL-NC-RLVD-ANPR2 ( 172.22.0.128 ),Ping,99.59,30 days 20 hours 56 minutes 58 seconds ,0.41,,0 days 3 hours 3 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-ANPR7 ( 172.22.0.195 ),Ping,98.32,30 days 11 hours 30 minutes 2 seconds ,1.68,,0 days 12 hours 29 minutes 57 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-RLVD-ANPR2 ( 172.22.0.98 ),Ping,99.69,30 days 21 hours 41 minutes 36 seconds ,0.31,,0 days 2 hours 18 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-RLVD-ANPR6 ( 172.22.0.172 ),Ping,98.24,30 days 10 hours 49 minutes 57 seconds ,1.76,,0 days 13 hours 5 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-RLVD-ANPR7 ( 172.22.0.149 ),Ping,99.93,30 days 23 hours 23 minutes 47 seconds ,0.07,,0 days 0 hours 31 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-RLVD-ANPR1 ( 172.22.0.197 ),Ping,90.89,28 days 4 hours 13 minutes 17 seconds ,9.11,,2 days 19 hours 46 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-ANPR6 ( 172.22.0.116 ),Ping,98.47,30 days 12 hours 29 minutes 43 seconds ,1.53,,0 days 11 hours 22 minutes 53 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-ANPR3 ( 172.22.0.113 ),Ping,82.79,25 days 15 hours 53 minutes 46 seconds ,17.21,,5 days 8 hours 1 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-RLVD-ANPR8 ( 172.22.0.110 ),Ping,42.19,13 days 1 hours 53 minutes 37 seconds ,57.81,,17 days 22 hours 6 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-RLVD-ANPR3 ( 172.22.0.169 ),Ping,98.27,30 days 11 hours 2 minutes 51 seconds ,1.73,,0 days 12 hours 52 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-RLVD-ANPR3 ( 172.22.0.227 ),Ping,96.56,29 days 22 hours 20 minutes 4 seconds ,3.44,,1 days 1 hours 35 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-RLVD-ANPR6 ( 172.22.0.178 ),Ping,5.23,1 days 14 hours 54 minutes 40 seconds ,2.03,,0 days 15 hours 6 minutes 12 seconds ,92.74,28 days 17 hours 59 minutes 7 seconds 
+BSCL-HC-RLVD-ANPR1 ( 172.22.0.58 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 52 minutes 36 seconds 
+BSCL-GNC-RLVD-ANPR1 ( 172.22.0.89 ),Ping,99.65,30 days 21 hours 23 minutes 45 seconds ,0.35,,0 days 2 hours 36 minutes 14 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-AC-ANPR2 ( 172.22.0.232 ),Ping,99.71,30 days 21 hours 50 minutes 32 seconds ,0.29,,0 days 2 hours 9 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-ANPR1 ( 172.22.0.213 ),Ping,98.1,30 days 9 hours 51 minutes 50 seconds ,1.9,,0 days 14 hours 8 minutes 10 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-ANPR2 ( 172.22.0.51 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 52 minutes 36 seconds 
+BSCL-CMD-RLVD-ANPR5 ( 172.22.0.71 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-OBS-RLVD-ANPR3 ( 172.22.0.137 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,100,,30 days 23 hours 59 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-RLVD-ANPR2 ( 172.22.0.168 ),Ping,98.25,30 days 10 hours 54 minutes 25 seconds ,1.75,,0 days 13 hours 1 minutes 7 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-ANPR3 ( 172.22.0.153 ),Ping,94.66,29 days 8 hours 16 minutes 13 seconds ,5.34,,1 days 15 hours 43 minutes 47 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-RLVD-ANPR7 ( 172.22.0.109 ),Ping,42.78,13 days 6 hours 16 minutes 59 seconds ,57.22,,17 days 17 hours 43 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-RLVD-ANPR3 ( 172.22.0.175 ),Ping,4.03,1 days 5 hours 58 minutes 48 seconds ,3.2,,0 days 23 hours 48 minutes 20 seconds ,92.77,28 days 18 hours 8 minutes 14 seconds 
+BSCL-TBC-RLVD-ANPR6 ( 172.22.0.212 ),Ping,99.98,30 days 23 hours 51 minutes 3 seconds ,0.02,,0 days 0 hours 8 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-RLVD-ANPR2 ( 172.22.0.120 ),Ping,94.75,29 days 8 hours 56 minutes 23 seconds ,5.25,,1 days 15 hours 3 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MNC-ANPR5 ( 172.22.0.241 ),Ping,98.32,30 days 11 hours 30 minutes 2 seconds ,1.68,,0 days 12 hours 29 minutes 57 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-ANPR5 ( 172.22.0.155 ),Ping,94.74,29 days 8 hours 47 minutes 14 seconds ,5.26,,1 days 15 hours 7 minutes 48 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-RLVD-ANPR2 ( 172.22.0.226 ),Ping,94.22,29 days 4 hours 55 minutes 8 seconds ,5.78,,1 days 18 hours 59 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-RLVD-ANPR2 ( 172.22.0.184 ),Ping,97.31,30 days 3 hours 59 minutes 10 seconds ,2.69,,0 days 20 hours 0 minutes 49 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-ANPR7 ( 172.22.0.117 ),Ping,98.43,30 days 12 hours 14 minutes 16 seconds ,1.57,,0 days 11 hours 40 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-AC-ANPR1 ( 172.22.0.231 ),Ping,99.71,30 days 21 hours 50 minutes 32 seconds ,0.29,,0 days 2 hours 9 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-RLVD-ANPR3 ( 172.22.0.199 ),Ping,98.19,30 days 10 hours 32 minutes 0 seconds ,1.81,,0 days 13 hours 27 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-RLVD-ANPR5 ( 172.22.0.163 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 0 seconds 
+BSCL-RGC-RLVD-ANPR4 ( 172.22.0.200 ),Ping,98.19,30 days 10 hours 32 minutes 0 seconds ,1.81,,0 days 13 hours 27 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-ANPR2 ( 172.22.0.112 ),Ping,98.5,30 days 12 hours 43 minutes 6 seconds ,1.5,,0 days 11 hours 9 minutes 29 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-ANPR5 ( 172.22.0.193 ),Ping,98.35,30 days 11 hours 43 minutes 26 seconds ,1.65,,0 days 12 hours 16 minutes 34 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-RLVD-ANPR3 ( 172.22.0.85 ),Ping,99.45,30 days 19 hours 54 minutes 28 seconds ,0.55,,0 days 4 hours 5 minutes 31 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-ANPR8 ( 172.22.0.96 ),Ping,99.69,30 days 21 hours 41 minutes 36 seconds ,0.31,,0 days 2 hours 18 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-RLVD-ANPR8 ( 172.22.0.150 ),Ping,99.92,30 days 23 hours 19 minutes 20 seconds ,0.08,,0 days 0 hours 35 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-ANPR6 ( 172.22.0.156 ),Ping,94.66,29 days 8 hours 16 minutes 13 seconds ,5.34,,1 days 15 hours 43 minutes 47 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-ANPR7 ( 172.22.0.219 ),Ping,98.11,30 days 9 hours 56 minutes 17 seconds ,1.89,,0 days 14 hours 3 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-RLVD-ANPR3 ( 172.22.0.145 ),Ping,99.36,30 days 19 hours 14 minutes 17 seconds ,0.64,,0 days 4 hours 45 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-WWD-ANPR1 ( 172.22.3.115 ),Ping,99.93,30 days 23 hours 28 minutes 44 seconds ,0.07,,0 days 0 hours 31 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-RLVD-ANPR3 ( 172.22.0.207 ),Ping,100,30 days 23 hours 55 minutes 2 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-RLVD-ANPR8 ( 172.22.0.126 ),Ping,94.74,29 days 8 hours 47 minutes 42 seconds ,5.26,,1 days 15 hours 7 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-RLVD-ANPR2 ( 172.22.0.104 ),Ping,69.34,21 days 11 hours 53 minutes 22 seconds ,30.66,,9 days 12 hours 6 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-RLVD-ANPR4 ( 172.22.0.162 ),Ping,99.31,30 days 18 hours 51 minutes 58 seconds ,0.69,,0 days 5 hours 8 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-RLVD-ANPR5 ( 172.22.0.131 ),Ping,99.6,30 days 21 hours 1 minutes 26 seconds ,0.4,,0 days 2 hours 58 minutes 34 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-RLVD-ANPR8 ( 172.22.0.204 ),Ping,98.19,30 days 10 hours 32 minutes 0 seconds ,1.81,,0 days 13 hours 27 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-RLVD-ANPR2 ( 172.22.0.160 ),Ping,99.33,30 days 19 hours 0 minutes 54 seconds ,0.67,,0 days 4 hours 59 minutes 5 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-RLVD-ANPR4 ( 172.22.0.208 ),Ping,100,30 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-ANPR3 ( 172.22.0.215 ),Ping,98.12,30 days 9 hours 55 minutes 54 seconds ,1.88,,0 days 13 hours 59 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-AC-ANPR5 ( 172.22.0.235 ),Ping,99.72,30 days 21 hours 55 minutes 0 seconds ,0.28,,0 days 2 hours 5 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-ANPR3 ( 172.22.0.68 ),Ping,99.38,30 days 19 hours 23 minutes 13 seconds ,0.62,,0 days 4 hours 36 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-ANPR7 ( 172.22.0.56 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 0 seconds 
+BSCL-GNCS-SVD-ANPR4 ( 172.22.0.246 ),Ping,98.75,30 days 14 hours 37 minutes 6 seconds ,1.25,,0 days 9 hours 17 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-RLVD-ANPR7 ( 172.22.0.64 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-CMD-RLVD-ANPR8 ( 172.22.0.74 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 30 seconds 
+BSCL-MMT-RLVD-ANPR1 ( 172.22.0.183 ),Ping,97.3,30 days 3 hours 54 minutes 42 seconds ,2.7,,0 days 20 hours 5 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-RLVD-ANPR5 ( 172.22.0.171 ),Ping,98.26,30 days 11 hours 3 minutes 15 seconds ,1.74,,0 days 12 hours 56 minutes 44 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-RLVD-ANPR4 ( 172.22.0.86 ),Ping,99.44,30 days 19 hours 50 minutes 0 seconds ,0.56,,0 days 4 hours 9 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-ANPR4 ( 172.22.0.92 ),Ping,13.22,4 days 2 hours 21 minutes 24 seconds ,86.78,,26 days 21 hours 38 minutes 35 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-ANPR2 ( 172.22.0.190 ),Ping,98.35,30 days 11 hours 43 minutes 26 seconds ,1.65,,0 days 12 hours 16 minutes 34 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-ANPR1 ( 172.22.0.111 ),Ping,98.45,30 days 12 hours 28 minutes 4 seconds ,1.55,,0 days 11 hours 31 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-ANPR8 ( 172.22.0.196 ),Ping,95.57,29 days 15 hours 2 minutes 26 seconds ,4.43,,1 days 8 hours 57 minutes 33 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-ANPR4 ( 172.22.0.70 ),Ping,92.56,28 days 16 hours 34 minutes 39 seconds ,7.44,,2 days 7 hours 20 minutes 53 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-RLVD-ANPR2 ( 172.22.0.206 ),Ping,100,30 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-AC-ANPR6 ( 172.22.0.236 ),Ping,99.71,30 days 21 hours 50 minutes 32 seconds ,0.29,,0 days 2 hours 9 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-RLVD-ANPR5 ( 172.22.0.187 ),Ping,84.34,26 days 3 hours 29 minutes 22 seconds ,15.66,,4 days 20 hours 30 minutes 37 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-WWD-ANPR1 ( 172.22.3.102 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-HC-RLVD-ANPR5 ( 172.22.0.62 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-BNC-RLVD-ANPR8 ( 172.22.0.220 ),Ping,87.52,27 days 3 hours 8 minutes 55 seconds ,12.48,,3 days 20 hours 51 minutes 4 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-ANPR6 ( 172.22.0.218 ),Ping,98.15,30 days 10 hours 14 minutes 9 seconds ,1.85,,0 days 13 hours 45 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-RLVD-ANPR4 ( 172.22.0.176 ),Ping,0.13,0 days 0 hours 58 minutes 2 seconds ,7.11,,2 days 4 hours 53 minutes 54 seconds ,92.76,28 days 18 hours 8 minutes 3 seconds 
+BSCL-OBS-RLVD-ANPR7 ( 172.22.0.141 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-TWC-RLVD-ANPR3 ( 172.22.0.161 ),Ping,99.35,30 days 19 hours 4 minutes 54 seconds ,0.65,,0 days 4 hours 50 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+ BSCL-OBS-RLVD-ANPR9 ( 172.22.0.247 ),Ping,76.65,23 days 18 hours 16 minutes 33 seconds ,23.35,,7 days 5 hours 43 minutes 26 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-ANPR4 ( 172.22.0.216 ),Ping,98.14,30 days 10 hours 4 minutes 49 seconds ,1.86,,0 days 13 hours 50 minutes 13 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RVR-SVD-ANPR3 ( 172.22.0.223 ),Ping,99.91,30 days 23 hours 19 minutes 49 seconds ,0.09,,0 days 0 hours 40 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-ANPR7 ( 172.22.0.95 ),Ping,99.68,30 days 21 hours 37 minutes 8 seconds ,0.32,,0 days 2 hours 22 minutes 51 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-RLVD-ANPR1 ( 172.22.0.159 ),Ping,99.35,30 days 19 hours 4 minutes 55 seconds ,0.65,,0 days 4 hours 50 minutes 8 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-ANPR2 ( 172.22.0.152 ),Ping,94.74,29 days 8 hours 47 minutes 15 seconds ,5.26,,1 days 15 hours 7 minutes 48 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-RLVD-ANPR1 ( 172.22.0.97 ),Ping,99.69,30 days 21 hours 37 minutes 10 seconds ,0.31,,0 days 2 hours 18 minutes 22 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-RLVD-ANPR8 ( 172.22.0.134 ),Ping,97.37,30 days 4 hours 25 minutes 57 seconds ,2.63,,0 days 19 hours 34 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-ANPR6 ( 172.22.0.72 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-DNC-RLVD-ANPR6 ( 172.22.0.80 ),Ping,98.84,30 days 15 hours 22 minutes 10 seconds ,1.16,,0 days 8 hours 37 minutes 49 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-RLVD-ANPR4 ( 172.22.0.130 ),Ping,99.57,30 days 20 hours 43 minutes 36 seconds ,0.43,,0 days 3 hours 11 minutes 56 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-RLVD-ANPR8 ( 172.22.0.82 ),Ping,98.87,30 days 15 hours 35 minutes 33 seconds ,1.13,,0 days 8 hours 24 minutes 26 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-RLVD-ANPR5 ( 172.22.0.87 ),Ping,99.46,30 days 19 hours 54 minutes 0 seconds ,0.54,,0 days 4 hours 1 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-RLVD-ANPR6 ( 172.22.0.88 ),Ping,99.47,30 days 19 hours 58 minutes 58 seconds ,0.53,,0 days 3 hours 56 minutes 34 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-ANPR5 ( 172.22.0.93 ),Ping,99.68,30 days 21 hours 37 minutes 8 seconds ,0.32,,0 days 2 hours 22 minutes 51 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-ANPR2 ( 172.22.0.67 ),Ping,99.37,30 days 19 hours 14 minutes 20 seconds ,0.63,,0 days 4 hours 41 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-ANPR5 ( 172.22.0.139 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+ BSCL-OBS-RLVD-ANPR10 ( 172.22.0.248 ),Ping,78.91,24 days 11 hours 5 minutes 25 seconds ,21.09,,6 days 12 hours 54 minutes 34 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-RLVD-ANPR3 ( 172.22.0.121 ),Ping,94.75,29 days 8 hours 56 minutes 23 seconds ,5.25,,1 days 15 hours 3 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-ANPR5 ( 172.22.0.54 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MDC-RLVD-ANPR8 ( 172.22.0.118 ),Ping,61.85,19 days 4 hours 5 minutes 15 seconds ,38.15,,11 days 19 hours 47 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-ANPR3 ( 172.22.0.52 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-AC-ANPR3 ( 172.22.0.233 ),Ping,99.71,30 days 21 hours 50 minutes 32 seconds ,0.29,,0 days 2 hours 9 minutes 27 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-ANPR4 ( 172.22.0.154 ),Ping,94.72,29 days 8 hours 38 minutes 47 seconds ,5.28,,1 days 15 hours 16 minutes 45 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-ANPR3 ( 172.22.0.191 ),Ping,98.34,30 days 11 hours 38 minutes 58 seconds ,1.66,,0 days 12 hours 21 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-RLVD-ANPR4 ( 172.22.0.146 ),Ping,99.37,30 days 19 hours 18 minutes 45 seconds ,0.63,,0 days 4 hours 41 minutes 14 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-RLVD-ANPR5 ( 172.22.0.177 ),Ping,5.2,1 days 14 hours 41 minutes 17 seconds ,2.04,,0 days 15 hours 10 minutes 39 seconds ,92.76,28 days 18 hours 8 minutes 3 seconds 
+BSCL-DNC-RLVD-ANPR4 ( 172.22.0.78 ),Ping,77.97,24 days 4 hours 5 minutes 48 seconds ,22.03,,6 days 19 hours 54 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-ANPR4 ( 172.22.0.138 ),Ping,75.65,23 days 10 hours 46 minutes 54 seconds ,24.35,,7 days 13 hours 8 minutes 48 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RVR-SVD-ANPR2 ( 172.22.0.222 ),Ping,99.9,30 days 23 hours 15 minutes 21 seconds ,0.1,,0 days 0 hours 44 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MNC-ANPR1 ( 172.22.0.237 ),Ping,98.38,30 days 11 hours 56 minutes 49 seconds ,1.62,,0 days 12 hours 3 minutes 10 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MC-RLVD-ANPR6 ( 172.22.0.124 ),Ping,94.68,29 days 8 hours 25 minutes 8 seconds ,5.32,,1 days 15 hours 34 minutes 51 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-RLVD-ANPR1 ( 172.22.0.75 ),Ping,98.84,30 days 15 hours 22 minutes 10 seconds ,1.16,,0 days 8 hours 37 minutes 49 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-RLVD-ANPR7 ( 172.22.0.203 ),Ping,98.21,30 days 10 hours 33 minutes 41 seconds ,1.79,,0 days 13 hours 18 minutes 55 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-RLVD-ANPR6 ( 172.22.0.148 ),Ping,99.93,30 days 23 hours 28 minutes 44 seconds ,0.07,,0 days 0 hours 31 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-ANPR1 ( 172.22.0.151 ),Ping,94.66,29 days 8 hours 16 minutes 13 seconds ,5.34,,1 days 15 hours 43 minutes 47 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-ANPR8 ( 172.22.0.158 ),Ping,94.74,29 days 8 hours 47 minutes 14 seconds ,5.26,,1 days 15 hours 7 minutes 48 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-RLVD-ANPR1 ( 172.22.0.127 ),Ping,99.59,30 days 20 hours 56 minutes 58 seconds ,0.41,,0 days 3 hours 3 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-RLVD-ANPR3 ( 172.22.0.185 ),Ping,97.28,30 days 3 hours 45 minutes 47 seconds ,2.72,,0 days 20 hours 14 minutes 12 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-ANPR1 ( 172.22.0.50 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 30 seconds 
+BSCL-HC-RLVD-ANPR2 ( 172.22.0.59 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 0 seconds 
+BSCL-ASC-RLVD-ANPR6 ( 172.22.0.55 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 30 seconds 
+BSCL-MPC-RLVD-ANPR6 ( 172.22.0.108 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,100,,30 days 23 hours 59 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TWC-RLVD-ANPR6 ( 172.22.0.164 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 30 seconds 
+BSCL-VVR-SVD-ANPR4 ( 172.22.0.182 ),Ping,99.12,30 days 17 hours 22 minutes 15 seconds ,0.88,,0 days 6 hours 32 minutes 47 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-RLVD-ANPR5 ( 172.22.0.107 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,100,,30 days 23 hours 59 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-ANPR6 ( 172.22.0.94 ),Ping,99.7,30 days 21 hours 41 minutes 8 seconds ,0.3,,0 days 2 hours 13 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-ANPR6 ( 172.22.0.140 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-VVR-SVD-ANPR1 ( 172.22.0.179 ),Ping,99.09,30 days 17 hours 9 minutes 21 seconds ,0.91,,0 days 6 hours 46 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-RLVD-ANPR1 ( 172.22.0.205 ),Ping,100,30 days 23 hours 55 minutes 2 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-WWD-ANPR2 ( 172.22.3.111 ),Ping,99.64,30 days 21 hours 19 minutes 17 seconds ,0.36,,0 days 2 hours 40 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MNC-ANPR6 ( 172.22.0.242 ),Ping,98.31,30 days 11 hours 25 minutes 34 seconds ,1.69,,0 days 12 hours 34 minutes 25 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-RLVD-ANPR7 ( 172.22.0.133 ),Ping,99.45,30 days 19 hours 50 minutes 2 seconds ,0.55,,0 days 4 hours 5 minutes 30 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-TBC-RLVD-ANPR5 ( 172.22.0.211 ),Ping,100,30 days 23 hours 55 minutes 32 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-RLVD-ANPR4 ( 172.22.0.228 ),Ping,96.55,29 days 22 hours 12 minutes 47 seconds ,3.45,,1 days 1 hours 39 minutes 49 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RGC-RLVD-ANPR5 ( 172.22.0.201 ),Ping,98.22,30 days 10 hours 45 minutes 24 seconds ,1.78,,0 days 13 hours 14 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNCS-SVD-ANPR1 ( 172.22.0.243 ),Ping,98.72,30 days 14 hours 23 minutes 43 seconds ,1.28,,0 days 9 hours 31 minutes 20 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-WWD-ANPR1 ( 172.22.3.109 ),Ping,99.59,30 days 20 hours 52 minutes 32 seconds ,0.41,,0 days 3 hours 3 minutes 0 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-RLVD-ANPR7 ( 172.22.0.81 ),Ping,98.84,30 days 15 hours 22 minutes 10 seconds ,1.16,,0 days 8 hours 37 minutes 49 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-RLVD-ANPR2 ( 172.22.0.144 ),Ping,99.93,30 days 23 hours 28 minutes 44 seconds ,0.07,,0 days 0 hours 31 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-ANPR8 ( 172.22.0.57 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-RGC-RLVD-ANPR6 ( 172.22.0.202 ),Ping,98.19,30 days 10 hours 32 minutes 0 seconds ,1.81,,0 days 13 hours 27 minutes 59 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-RLVD-ANPR4 ( 172.22.0.106 ),Ping,70.46,21 days 20 hours 13 minutes 20 seconds ,29.54,,9 days 3 hours 46 minutes 39 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-RLVD-ANPR4 ( 172.22.0.186 ),Ping,97.89,30 days 8 hours 18 minutes 5 seconds ,2.11,,0 days 15 hours 41 minutes 54 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-RLVD-ANPR3 ( 172.22.0.99 ),Ping,99.69,30 days 21 hours 41 minutes 36 seconds ,0.31,,0 days 2 hours 18 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNCS-SVD-ANPR2 ( 172.22.0.244 ),Ping,98.78,30 days 14 hours 50 minutes 59 seconds ,1.22,,0 days 9 hours 4 minutes 33 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-WWD-ANPR1 ( 172.22.3.105 ),Ping,70.41,21 days 19 hours 47 minutes 32 seconds ,29.59,,9 days 4 hours 7 minutes 30 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-RLVD-ANPR1 ( 172.22.0.225 ),Ping,96.08,29 days 18 hours 42 minutes 59 seconds ,3.92,,1 days 5 hours 9 minutes 36 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-ANPR8 ( 172.22.0.142 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-MC-RLVD-ANPR5 ( 172.22.0.123 ),Ping,94.65,29 days 8 hours 11 minutes 45 seconds ,5.35,,1 days 15 hours 48 minutes 14 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-BNC-RLVD-ANPR2 ( 172.22.0.214 ),Ping,11.69,3 days 14 hours 58 minutes 25 seconds ,88.31,,27 days 9 hours 1 minutes 34 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-RLVD-ANPR1 ( 172.22.0.167 ),Ping,98.27,30 days 11 hours 2 minutes 51 seconds ,1.73,,0 days 12 hours 52 minutes 11 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-RLVD-ANPR6 ( 172.22.0.230 ),Ping,96.59,29 days 22 hours 37 minutes 46 seconds ,3.41,,1 days 1 hours 22 minutes 13 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-RLVD-ANPR6 ( 172.22.0.102 ),Ping,99.69,30 days 21 hours 41 minutes 36 seconds ,0.31,,0 days 2 hours 18 minutes 23 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-RLVD-ANPR6 ( 172.22.0.63 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-DNC-RLVD-ANPR5 ( 172.22.0.79 ),Ping,98.84,30 days 15 hours 22 minutes 10 seconds ,1.16,,0 days 8 hours 37 minutes 49 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-RLVD-ANPR5 ( 172.22.0.101 ),Ping,99.68,30 days 21 hours 32 minutes 12 seconds ,0.32,,0 days 2 hours 22 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-FRC-RLVD-ANPR7 ( 172.22.0.157 ),Ping,94.72,29 days 8 hours 38 minutes 47 seconds ,5.28,,1 days 15 hours 16 minutes 45 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-RLVD-ANPR3 ( 172.22.0.77 ),Ping,66.31,20 days 13 hours 20 minutes 46 seconds ,33.69,,10 days 10 hours 39 minutes 13 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GB-WWD-ANPR1 ( 172.22.3.127 ),Ping,100,30 days 23 hours 59 minutes 59 seconds ,0,,0 days 0 hours 0 minutes 0 seconds,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GC-RLVD-ANPR2 ( 172.22.0.84 ),Ping,99.4,30 days 19 hours 32 minutes 9 seconds ,0.6,,0 days 4 hours 27 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMT-RLVD-ANPR6 ( 172.22.0.188 ),Ping,97.3,30 days 3 hours 54 minutes 42 seconds ,2.7,,0 days 20 hours 5 minutes 17 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VRP-RLVD-ANPR4 ( 172.22.0.170 ),Ping,95.83,29 days 16 hours 54 minutes 14 seconds ,4.17,,1 days 7 hours 1 minutes 18 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVC-RLVD-ANPR1 ( 172.22.0.173 ),Ping,5.23,1 days 14 hours 54 minutes 40 seconds ,2.02,,0 days 15 hours 1 minutes 44 seconds ,92.75,28 days 18 hours 3 minutes 35 seconds 
+BSCL-VVR-SVD-ANPR3 ( 172.22.0.181 ),Ping,99.1,30 days 17 hours 18 minutes 14 seconds ,0.9,,0 days 6 hours 41 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-ANPR6 ( 172.22.0.194 ),Ping,98.34,30 days 11 hours 38 minutes 58 seconds ,1.66,,0 days 12 hours 21 minutes 1 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MN-RLVD-ANPR5 ( 172.22.0.229 ),Ping,96.58,29 days 22 hours 33 minutes 18 seconds ,3.42,,1 days 1 hours 26 minutes 41 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MMC-RLVD-ANPR4 ( 172.22.0.100 ),Ping,99.69,30 days 21 hours 37 minutes 10 seconds ,0.31,,0 days 2 hours 18 minutes 22 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-RLVD-ANPR3 ( 172.22.0.129 ),Ping,89.92,27 days 20 hours 55 minutes 49 seconds ,10.08,,3 days 2 hours 59 minutes 13 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-RLVD-ANPR8 ( 172.22.0.65 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 0 seconds 
+BSCL-RVR-SVD-ANPR1 ( 172.22.0.221 ),Ping,99.88,30 days 23 hours 6 minutes 25 seconds ,0.12,,0 days 0 hours 53 minutes 34 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-VVR-SVD-ANPR2 ( 172.22.0.180 ),Ping,99.1,30 days 17 hours 18 minutes 14 seconds ,0.9,,0 days 6 hours 41 minutes 46 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MPC-RLVD-ANPR1 ( 172.22.0.103 ),Ping,70.48,21 days 20 hours 22 minutes 16 seconds ,29.52,,9 days 3 hours 37 minutes 43 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-CMD-RLVD-ANPR7 ( 172.22.0.73 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 52 minutes 36 seconds 
+BSCL-MC-RLVD-ANPR4 ( 172.22.0.122 ),Ping,94.66,29 days 8 hours 16 minutes 13 seconds ,5.34,,1 days 15 hours 43 minutes 47 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-OBS-RLVD-ANPR1 ( 172.22.0.135 ),Ping,78.9,24 days 11 hours 0 minutes 57 seconds ,21.1,,6 days 12 hours 59 minutes 2 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MDC-RLVD-ANPR4 ( 172.22.0.114 ),Ping,12.95,4 days 0 hours 20 minutes 53 seconds ,87.05,,26 days 23 hours 39 minutes 7 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-ANPR2 ( 172.22.0.90 ),Ping,99.65,30 days 21 hours 23 minutes 45 seconds ,0.35,,0 days 2 hours 36 minutes 14 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MM-ANPR1 ( 172.22.0.189 ),Ping,98.41,30 days 12 hours 5 minutes 50 seconds ,1.59,,0 days 11 hours 49 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNCS-SVD-ANPR3 ( 172.22.0.245 ),Ping,98.72,30 days 14 hours 28 minutes 36 seconds ,1.28,,0 days 9 hours 31 minutes 24 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MNC-ANPR4 ( 172.22.0.240 ),Ping,98,30 days 9 hours 2 minutes 20 seconds ,2,,0 days 14 hours 52 minutes 42 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-SC-RLVD-ANPR1 ( 172.22.0.143 ),Ping,99.93,30 days 23 hours 28 minutes 44 seconds ,0.07,,0 days 0 hours 31 minutes 15 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-HC-RLVD-ANPR4 ( 172.22.0.61 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 59 minutes 59 seconds 
+BSCL-RGC-RLVD-ANPR2 ( 172.22.0.198 ),Ping,98.24,30 days 10 hours 47 minutes 4 seconds ,1.76,,0 days 13 hours 5 minutes 32 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-NC-RLVD-ANPR6 ( 172.22.0.132 ),Ping,99.62,30 days 21 hours 10 minutes 21 seconds ,0.38,,0 days 2 hours 49 minutes 38 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-GNC-RLVD-ANPR3 ( 172.22.0.91 ),Ping,99.66,30 days 21 hours 28 minutes 13 seconds ,0.34,,0 days 2 hours 31 minutes 47 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-RLVD-ANPR2 ( 172.22.0.76 ),Ping,98.71,30 days 14 hours 24 minutes 8 seconds ,1.29,,0 days 9 hours 35 minutes 51 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-ASC-RLVD-ANPR4 ( 172.22.0.53 ),Ping,0,0 days 0 hours 0 minutes 0 seconds,0,,0 days 0 hours 0 minutes 0 seconds,100,30 days 23 hours 55 minutes 0 seconds 
+BSCL-MNC-ANPR2 ( 172.22.0.238 ),Ping,92.41,28 days 15 hours 27 minutes 42 seconds ,7.59,,2 days 8 hours 27 minutes 50 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-MNC-ANPR3 ( 172.22.0.239 ),Ping,98.4,30 days 12 hours 1 minutes 22 seconds ,1.6,,0 days 11 hours 54 minutes 10 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-RVR-SVD-ANPR4 ( 172.22.0.224 ),Ping,99.89,30 days 23 hours 10 minutes 53 seconds ,0.11,,0 days 0 hours 49 minutes 6 seconds ,0,0 days 0 hours 0 minutes 0 seconds
