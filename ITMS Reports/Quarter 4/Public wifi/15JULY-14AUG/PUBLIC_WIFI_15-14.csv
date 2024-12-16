@@ -1,0 +1,10 @@
+Report Name : PUBLIC WIFI,,,,,,,,
+Name : PUBLIC WIFI,,,,,,,,
+Time Span: From 15 Jul  2024 12:00:00 AM To 14 Aug  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+172.16.4.92,Ping,99.99,30 days 23 hours 55 minutes 31 seconds ,0.01,,0 days 0 hours 4 minutes 28 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+Name : PUBLIC WIFI,,,,,,,,
+Time Span: From 15 Jul  2024 12:00:00 AM To 14 Aug  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,99.99,,,
+Down (%),,,,,0.01,,,
