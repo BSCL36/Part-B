@@ -1,0 +1,12 @@
+Report Name : SMART POLE CTRL LED - EVS,,,,,,,,
+Name : SMAR TPOLE CTRL LED - EVS,,,,,,,,
+Time Span: From 15 Jul  2024 12:00:00 AM To 14 Aug  2024 11:59:59 PM,,,,,,,,
+Monitor,Type,Up (%),Up Time,Down (%),,Down Time,Maintenance (%),Maintenance Time
+BSCL-RVR-Smart-Pole-Ctrl ( 172.20.0.111 ),Ping,48.31,14 days 23 hours 25 minutes 35 seconds ,51.69,,16 days 0 hours 34 minutes 25 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-36M-Smart-Pole-Ctrl ( 172.20.0.112 ),Ping,60.71,18 days 19 hours 40 minutes 56 seconds ,39.29,,12 days 4 hours 19 minutes 3 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+BSCL-DNC-SMART-POLE-CTRL ( 172.20.0.110 ),Ping,56.85,17 days 14 hours 57 minutes 50 seconds ,43.15,,13 days 9 hours 2 minutes 9 seconds ,0,0 days 0 hours 0 minutes 0 seconds
+Name : SMAR TPOLE CTRL LED - EVS,,,,,,,,
+Time Span: From 15 Jul  2024 12:00:00 AM To 14 Aug  2024 11:59:59 PM,,,,,,,,
+status,,,,,value,,,
+Up (%),,,,,55.29,,,
+Down (%),,,,,44.71,,,
